@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import {execFileSync} from 'node:child_process';
+const scenes=JSON.parse(fs.readFileSync(new URL('./src/episode/data.json',import.meta.url),'utf8'));
+const input=process.argv[2]||'output/episode-01-master.mp4';
+const output=process.argv[3]||'output/episode-01.mp4';
+const retained=scenes.map(s=>Math.min(s.frames,Math.ceil(s.captions.at(-1).endMs/1000*30)+(s.id==='16'?24:5)));
+const total=retained.reduce((a,b)=>a+b,0)/30;
+const select=scenes.map((s,i)=>`between(n,${s.from},${s.from+retained[i]-1})`).join('+');
+let filter=`[0:v]select='${select}',settb=expr=1/30,setpts=N[v];[0:a]asplit=16${scenes.map((_,i)=>`[s${i}]`).join('')};`;
+filter+=scenes.map((s,i)=>`[s${i}]atrim=start=${s.from/30}:end=${(s.from+retained[i])/30},asetpts=PTS-STARTPTS[a${i}];`).join('');
+filter+=scenes.map((_,i)=>`[a${i}]`).join('')+`concat=n=16:v=0:a=1,afade=t=out:st=${total-.4}:d=0.4,alimiter=limit=0.89:level=false[a]`;
+console.log(`Remove TTS silence tails: ${total.toFixed(2)} seconds, ${retained.reduce((a,b)=>a+b,0)} frames.`);
+execFileSync('ffmpeg',['-y','-hide_banner','-loglevel','error','-i',input,'-filter_complex',filter,'-map','[v]','-map','[a]','-r','30','-fps_mode','cfr','-c:v','libx264','-preset','veryfast','-b:v','5M','-maxrate','7M','-bufsize','10M','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-movflags','+faststart',output],{stdio:'inherit'});
