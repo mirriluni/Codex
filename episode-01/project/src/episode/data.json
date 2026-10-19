@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "01",
+    "text": "В моём городе за открытые глаза забирают навсегда.",
+    "title": "НЕ ОТКРЫВАЙ ГЛАЗА",
+    "label": "ПРАВИЛО № 1",
+    "kind": "street",
+    "captions": [
+      {
+        "text": " В",
+        "startMs": 86.20689655172414,
+        "endMs": 215.84051724137933,
+        "timestampMs": 151.02370689655174,
+        "confidence": null
+      },
+      {
+        "text": " моём",
+        "startMs": 215.84051724137933,
+        "endMs": 458.9077586206898,
+        "timestampMs": 337.37413793103457,
+        "confidence": null
+      },
+      {
+        "text": " городе",
+        "startMs": 458.90775862068966,
+        "endMs": 701.975,
+        "timestampMs": 580.4413793103448,
+        "confidence": null
+      },
+      {
+        "text": " за",
+        "startMs": 701.9750000000001,
+        "endMs": 791.0913793103449,
+        "timestampMs": 746.5331896551725,
+        "confidence": null
+      },
+      {
+        "text": " открытые",
+        "startMs": 791.0913793103449,
+        "endMs": 1082.7577586206899,
+        "timestampMs": 936.9245689655173,
+        "confidence": null
+      },
+      {
+        "text": " глаза",
+        "startMs": 1082.7586206896553,
+        "endMs": 1309.6258620689655,
+        "timestampMs": 1196.1922413793104,
+        "confidence": null
+      },
+      {
+        "text": " забирают",
+        "startMs": 1309.6258620689655,
+        "endMs": 1633.7275862068966,
+        "timestampMs": 1471.6767241379312,
+        "confidence": null
+      },
+      {
+        "text": " навсегда",
+        "startMs": 1633.728448275862,
+        "endMs": 2030.7465517241383,
+        "timestampMs": 1832.2375000000002,
+        "confidence": null
+      }
+    ],
+    "seconds": 2.64,
+    "frames": 85,
+    "from": 0
+  },
+  {
+    "id": "02",
+    "text": "Меня зовут Марк. Мне двадцать три. Я развожу посылки по городу, которого никогда не видел.",
+    "title": "МАРК · КУРЬЕР",
+    "label": "СЕРИЯ 01 / 10",
+    "kind": "identity",
+    "captions": [
+      {
+        "text": " Меня",
+        "startMs": 86.20689655172414,
+        "endMs": 394.073275862069,
+        "timestampMs": 240.14008620689657,
+        "confidence": null
+      },
+      {
+        "text": " зовут",
+        "startMs": 394.073275862069,
+        "endMs": 653.3405172413793,
+        "timestampMs": 523.7068965517242,
+        "confidence": null
+      },
+      {
+        "text": " Марк",
+        "startMs": 653.3405172413793,
+        "endMs": 961.2068965517242,
+        "timestampMs": 807.2737068965517,
+        "confidence": null
+      },
+      {
+        "text": " Мне",
+        "startMs": 1501.5086206896553,
+        "endMs": 1825.5741379310348,
+        "timestampMs": 1663.541379310345,
+        "confidence": null
+      },
+      {
+        "text": " двадцать",
+        "startMs": 1825.5741379310348,
+        "endMs": 2133.4405172413794,
+        "timestampMs": 1979.507327586207,
+        "confidence": null
+      },
+      {
+        "text": " три",
+        "startMs": 2133.4405172413794,
+        "endMs": 2384.589655172414,
+        "timestampMs": 2259.015086206897,
+        "confidence": null
+      },
+      {
+        "text": " Я",
+        "startMs": 2976.0775862068967,
+        "endMs": 3194.8275862068967,
+        "timestampMs": 3085.4525862068967,
+        "confidence": null
+      },
+      {
+        "text": " развожу",
+        "startMs": 3194.8275862068967,
+        "endMs": 3494.6120689655177,
+        "timestampMs": 3344.719827586207,
+        "confidence": null
+      },
+      {
+        "text": " посылки",
+        "startMs": 3494.6120689655177,
+        "endMs": 3826.7956896551723,
+        "timestampMs": 3660.7038793103447,
+        "confidence": null
+      },
+      {
+        "text": " по",
+        "startMs": 3826.7956896551723,
+        "endMs": 3907.830172413793,
+        "timestampMs": 3867.3129310344825,
+        "confidence": null
+      },
+      {
+        "text": " городу",
+        "startMs": 3907.830172413793,
+        "endMs": 4167.097413793103,
+        "timestampMs": 4037.463793103448,
+        "confidence": null
+      },
+      {
+        "text": " которого",
+        "startMs": 4329.130172413794,
+        "endMs": 4636.996551724138,
+        "timestampMs": 4483.063362068966,
+        "confidence": null
+      },
+      {
+        "text": " никогда",
+        "startMs": 4637.0327586206895,
+        "endMs": 4944.899137931035,
+        "timestampMs": 4790.9659482758625,
+        "confidence": null
+      },
+      {
+        "text": " не",
+        "startMs": 4944.899137931035,
+        "endMs": 5025.933620689655,
+        "timestampMs": 4985.416379310345,
+        "confidence": null
+      },
+      {
+        "text": " видел",
+        "startMs": 5025.933620689655,
+        "endMs": 5293.318103448276,
+        "timestampMs": 5159.625862068965,
+        "confidence": null
+      }
+    ],
+    "seconds": 5.88,
+    "frames": 182,
+    "from": 85
+  },
+  {
+    "id": "03",
+    "text": "Нас учат с детства: снимешь повязку — потеряешь рассудок. Поэтому мы считаем шаги и узнаём близких по голосу.",
+    "title": "СМОТРЕТЬ ЗАПРЕЩЕНО",
+    "label": "ГОРОД СЛЕПЫХ",
+    "kind": "rule",
+    "captions": [
+      {
+        "text": " Нас",
+        "startMs": 86.20689655172414,
+        "endMs": 361.673275862069,
+        "timestampMs": 223.94008620689655,
+        "confidence": null
+      },
+      {
+        "text": " учат",
+        "startMs": 361.673275862069,
+        "endMs": 531.8241379310344,
+        "timestampMs": 446.7487068965517,
+        "confidence": null
+      },
+      {
+        "text": " с",
+        "startMs": 531.8241379310346,
+        "endMs": 588.5405172413795,
+        "timestampMs": 560.182327586207,
+        "confidence": null
+      },
+      {
+        "text": " детства",
+        "startMs": 588.5413793103448,
+        "endMs": 872.1258620689655,
+        "timestampMs": 730.3336206896552,
+        "confidence": null
+      },
+      {
+        "text": " снимешь",
+        "startMs": 1082.7586206896553,
+        "endMs": 1358.2250000000001,
+        "timestampMs": 1220.4918103448279,
+        "confidence": null
+      },
+      {
+        "text": " повязку",
+        "startMs": 1358.2612068965518,
+        "endMs": 1698.562931034483,
+        "timestampMs": 1528.4120689655174,
+        "confidence": null
+      },
+      {
+        "text": " потеряешь",
+        "startMs": 1820.0784482758622,
+        "endMs": 2152.2620689655178,
+        "timestampMs": 1986.1702586206902,
+        "confidence": null
+      },
+      {
+        "text": " рассудок",
+        "startMs": 2152.262931034483,
+        "endMs": 2533.081896551724,
+        "timestampMs": 2342.6724137931037,
+        "confidence": null
+      },
+      {
+        "text": " Поэтому",
+        "startMs": 3097.629310344828,
+        "endMs": 3397.377586206897,
+        "timestampMs": 3247.5034482758624,
+        "confidence": null
+      },
+      {
+        "text": " мы",
+        "startMs": 3397.377586206897,
+        "endMs": 3478.4120689655174,
+        "timestampMs": 3437.894827586207,
+        "confidence": null
+      },
+      {
+        "text": " считаем",
+        "startMs": 3478.4120689655174,
+        "endMs": 3786.278448275863,
+        "timestampMs": 3632.3452586206904,
+        "confidence": null
+      },
+      {
+        "text": " шаги",
+        "startMs": 3786.314655172414,
+        "endMs": 4069.862931034483,
+        "timestampMs": 3928.088793103449,
+        "confidence": null
+      },
+      {
+        "text": " и",
+        "startMs": 4069.862931034483,
+        "endMs": 4191.378448275862,
+        "timestampMs": 4130.620689655173,
+        "confidence": null
+      },
+      {
+        "text": " узнаём",
+        "startMs": 4191.414655172414,
+        "endMs": 4491.199137931035,
+        "timestampMs": 4341.306896551725,
+        "confidence": null
+      },
+      {
+        "text": " близких",
+        "startMs": 4491.199137931035,
+        "endMs": 4782.865517241379,
+        "timestampMs": 4637.032327586207,
+        "confidence": null
+      },
+      {
+        "text": " по",
+        "startMs": 4782.866379310345,
+        "endMs": 4871.98275862069,
+        "timestampMs": 4827.424568965517,
+        "confidence": null
+      },
+      {
+        "text": " голосу",
+        "startMs": 4871.98275862069,
+        "endMs": 5244.683620689655,
+        "timestampMs": 5058.333189655173,
+        "confidence": null
+      }
+    ],
+    "seconds": 5.856,
+    "frames": 181,
+    "from": 267
+  },
+  {
+    "id": "04",
+    "text": "Сегодня мне дали странную посылку. Без имени. Только адрес: дом семнадцать. И записку: доставить до сирены.",
+    "title": "ДОМ 17",
+    "label": "НОВОЕ ЗАДАНИЕ",
+    "kind": "parcel",
+    "captions": [
+      {
+        "text": " Сегодня",
+        "startMs": 86.20689655172414,
+        "endMs": 450.78965517241375,
+        "timestampMs": 268.49827586206897,
+        "confidence": null
+      },
+      {
+        "text": " мне",
+        "startMs": 450.78965517241386,
+        "endMs": 580.4232758620691,
+        "timestampMs": 515.6064655172414,
+        "confidence": null
+      },
+      {
+        "text": " дали",
+        "startMs": 580.4232758620691,
+        "endMs": 758.6560344827587,
+        "timestampMs": 669.5396551724139,
+        "confidence": null
+      },
+      {
+        "text": " странную",
+        "startMs": 758.6922413793104,
+        "endMs": 1107.0758620689658,
+        "timestampMs": 932.8840517241381,
+        "confidence": null
+      },
+      {
+        "text": " посылку",
+        "startMs": 1107.0758620689658,
+        "endMs": 1520.2939655172415,
+        "timestampMs": 1313.6849137931038,
+        "confidence": null
+      },
+      {
+        "text": " Без",
+        "startMs": 2101.041379310345,
+        "endMs": 2408.90775862069,
+        "timestampMs": 2254.9745689655174,
+        "confidence": null
+      },
+      {
+        "text": " имени",
+        "startMs": 2408.9439655172414,
+        "endMs": 2797.844827586207,
+        "timestampMs": 2603.394396551724,
+        "confidence": null
+      },
+      {
+        "text": " Только",
+        "startMs": 3348.7784482758625,
+        "endMs": 3608.045689655173,
+        "timestampMs": 3478.412068965518,
+        "confidence": null
+      },
+      {
+        "text": " адрес",
+        "startMs": 3608.0456896551723,
+        "endMs": 3907.830172413793,
+        "timestampMs": 3757.9379310344825,
+        "confidence": null
+      },
+      {
+        "text": " дом",
+        "startMs": 4021.2637931034487,
+        "endMs": 4240.013793103449,
+        "timestampMs": 4130.638793103449,
+        "confidence": null
+      },
+      {
+        "text": " семнадцать",
+        "startMs": 4240.013793103449,
+        "endMs": 4701.831034482759,
+        "timestampMs": 4470.922413793104,
+        "confidence": null
+      },
+      {
+        "text": " И",
+        "startMs": 5252.801724137931,
+        "endMs": 5382.435344827587,
+        "timestampMs": 5317.618534482759,
+        "confidence": null
+      },
+      {
+        "text": " записку",
+        "startMs": 5382.435344827587,
+        "endMs": 5738.936206896552,
+        "timestampMs": 5560.68577586207,
+        "confidence": null
+      },
+      {
+        "text": " доставить",
+        "startMs": 5933.368965517241,
+        "endMs": 6281.752586206897,
+        "timestampMs": 6107.560775862069,
+        "confidence": null
+      },
+      {
+        "text": " до",
+        "startMs": 6281.752586206897,
+        "endMs": 6378.986206896552,
+        "timestampMs": 6330.369396551724,
+        "confidence": null
+      },
+      {
+        "text": " сирены",
+        "startMs": 6378.987068965518,
+        "endMs": 6727.370689655173,
+        "timestampMs": 6553.178879310345,
+        "confidence": null
+      }
+    ],
+    "seconds": 7.344,
+    "frames": 226,
+    "from": 448
+  },
+  {
+    "id": "05",
+    "text": "Проблема в том, что на моей улице всего шестнадцать домов. Я проверял. Каждый день.",
+    "title": "16 ДОМОВ. НЕ 17.",
+    "label": "АДРЕС НЕ НАЙДЕН",
+    "kind": "map",
+    "captions": [
+      {
+        "text": " Проблема",
+        "startMs": 86.20689655172414,
+        "endMs": 410.30862068965524,
+        "timestampMs": 248.2577586206897,
+        "confidence": null
+      },
+      {
+        "text": " в",
+        "startMs": 410.30862068965524,
+        "endMs": 450.78965517241386,
+        "timestampMs": 430.5491379310345,
+        "confidence": null
+      },
+      {
+        "text": " том",
+        "startMs": 450.78965517241386,
+        "endMs": 620.9405172413794,
+        "timestampMs": 535.8650862068966,
+        "confidence": null
+      },
+      {
+        "text": " что",
+        "startMs": 766.7741379310345,
+        "endMs": 896.4077586206898,
+        "timestampMs": 831.5909482758622,
+        "confidence": null
+      },
+      {
+        "text": " на",
+        "startMs": 896.4077586206898,
+        "endMs": 945.0068965517243,
+        "timestampMs": 920.707327586207,
+        "confidence": null
+      },
+      {
+        "text": " моей",
+        "startMs": 945.0431034482759,
+        "endMs": 1155.6750000000002,
+        "timestampMs": 1050.359051724138,
+        "confidence": null
+      },
+      {
+        "text": " улице",
+        "startMs": 1155.6750000000002,
+        "endMs": 1463.541379310345,
+        "timestampMs": 1309.6081896551725,
+        "confidence": null
+      },
+      {
+        "text": " всего",
+        "startMs": 1463.5775862068967,
+        "endMs": 1739.0439655172415,
+        "timestampMs": 1601.3107758620692,
+        "confidence": null
+      },
+      {
+        "text": " шестнадцать",
+        "startMs": 1739.0439655172415,
+        "endMs": 2111.744827586207,
+        "timestampMs": 1925.3943965517242,
+        "confidence": null
+      },
+      {
+        "text": " домов",
+        "startMs": 2111.7456896551726,
+        "endMs": 2427.729310344828,
+        "timestampMs": 2269.7375,
+        "confidence": null
+      },
+      {
+        "text": " Я",
+        "startMs": 3016.594827586207,
+        "endMs": 3267.7439655172416,
+        "timestampMs": 3142.1693965517247,
+        "confidence": null
+      },
+      {
+        "text": " проверял",
+        "startMs": 3267.7439655172416,
+        "endMs": 3672.8439655172415,
+        "timestampMs": 3470.2939655172418,
+        "confidence": null
+      },
+      {
+        "text": " Каждый",
+        "startMs": 4231.931896551725,
+        "endMs": 4564.115517241379,
+        "timestampMs": 4398.0237068965525,
+        "confidence": null
+      },
+      {
+        "text": " день",
+        "startMs": 4564.116379310345,
+        "endMs": 4774.784482758621,
+        "timestampMs": 4669.450431034483,
+        "confidence": null
+      }
+    ],
+    "seconds": 5.4,
+    "frames": 167,
+    "from": 674
+  },
+  {
+    "id": "06",
+    "text": "Я хотел вернуть коробку. Но изнутри раздались три коротких стука. Потом детский голос: Марк, не отдавай меня.",
+    "title": "НЕ ОТДАВАЙ МЕНЯ",
+    "label": "ГОЛОС ИЗ КОРОБКИ",
+    "kind": "knock",
+    "captions": [
+      {
+        "text": " Я",
+        "startMs": 86.20689655172414,
+        "endMs": 321.1560344827586,
+        "timestampMs": 203.68146551724138,
+        "confidence": null
+      },
+      {
+        "text": " хотел",
+        "startMs": 321.1560344827586,
+        "endMs": 580.423275862069,
+        "timestampMs": 450.78965517241375,
+        "confidence": null
+      },
+      {
+        "text": " вернуть",
+        "startMs": 580.4232758620691,
+        "endMs": 847.8077586206898,
+        "timestampMs": 714.1155172413794,
+        "confidence": null
+      },
+      {
+        "text": " коробку",
+        "startMs": 847.8086206896552,
+        "endMs": 1212.391379310345,
+        "timestampMs": 1030.1,
+        "confidence": null
+      },
+      {
+        "text": " Но",
+        "startMs": 1793.1750000000002,
+        "endMs": 1971.40775862069,
+        "timestampMs": 1882.291379310345,
+        "confidence": null
+      },
+      {
+        "text": " изнутри",
+        "startMs": 1971.40775862069,
+        "endMs": 2254.9922413793106,
+        "timestampMs": 2113.2000000000003,
+        "confidence": null
+      },
+      {
+        "text": " раздались",
+        "startMs": 2254.9922413793106,
+        "endMs": 2579.093965517242,
+        "timestampMs": 2417.0431034482763,
+        "confidence": null
+      },
+      {
+        "text": " три",
+        "startMs": 2579.094827586207,
+        "endMs": 2757.3275862068967,
+        "timestampMs": 2668.211206896552,
+        "confidence": null
+      },
+      {
+        "text": " коротких",
+        "startMs": 2757.3275862068967,
+        "endMs": 3081.393103448276,
+        "timestampMs": 2919.3603448275867,
+        "confidence": null
+      },
+      {
+        "text": " стука",
+        "startMs": 3081.393103448276,
+        "endMs": 3397.3767241379314,
+        "timestampMs": 3239.384913793104,
+        "confidence": null
+      },
+      {
+        "text": " Потом",
+        "startMs": 3980.7465517241385,
+        "endMs": 4256.2129310344835,
+        "timestampMs": 4118.47974137931,
+        "confidence": null
+      },
+      {
+        "text": " детский",
+        "startMs": 4256.213793103449,
+        "endMs": 4499.2810344827585,
+        "timestampMs": 4377.747413793104,
+        "confidence": null
+      },
+      {
+        "text": " голос",
+        "startMs": 4499.281034482759,
+        "endMs": 4790.947413793104,
+        "timestampMs": 4645.114224137932,
+        "confidence": null
+      },
+      {
+        "text": " Марк",
+        "startMs": 4863.900862068966,
+        "endMs": 5155.56724137931,
+        "timestampMs": 5009.734051724137,
+        "confidence": null
+      },
+      {
+        "text": " не",
+        "startMs": 5244.683620689655,
+        "endMs": 5358.11724137931,
+        "timestampMs": 5301.400431034483,
+        "confidence": null
+      },
+      {
+        "text": " отдавай",
+        "startMs": 5358.117241379311,
+        "endMs": 5601.184482758621,
+        "timestampMs": 5479.6508620689665,
+        "confidence": null
+      },
+      {
+        "text": " меня",
+        "startMs": 5601.185344827587,
+        "endMs": 5836.134482758621,
+        "timestampMs": 5718.659913793104,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.456,
+    "frames": 199,
+    "from": 841
+  },
+  {
+    "id": "07",
+    "text": "Я замер. Откуда он знает моё имя? И тут городская сирена включилась на десять минут раньше.",
+    "title": "СИРЕНА РАНЬШЕ СРОКА",
+    "label": "18:50 / ВМЕСТО 19:00",
+    "kind": "alarm",
+    "captions": [
+      {
+        "text": " Я",
+        "startMs": 86.20689655172414,
+        "endMs": 329.27413793103455,
+        "timestampMs": 207.74051724137934,
+        "confidence": null
+      },
+      {
+        "text": " замер",
+        "startMs": 329.27413793103455,
+        "endMs": 661.4577586206898,
+        "timestampMs": 495.36594827586214,
+        "confidence": null
+      },
+      {
+        "text": " Откуда",
+        "startMs": 1201.7241379310346,
+        "endMs": 1566.306896551724,
+        "timestampMs": 1384.0155172413795,
+        "confidence": null
+      },
+      {
+        "text": " он",
+        "startMs": 1566.306896551724,
+        "endMs": 1663.5405172413793,
+        "timestampMs": 1614.9237068965517,
+        "confidence": null
+      },
+      {
+        "text": " знает",
+        "startMs": 1663.541379310345,
+        "endMs": 1906.6086206896555,
+        "timestampMs": 1785.075,
+        "confidence": null
+      },
+      {
+        "text": " моё",
+        "startMs": 1906.6086206896555,
+        "endMs": 2092.9586206896556,
+        "timestampMs": 1999.7836206896554,
+        "confidence": null
+      },
+      {
+        "text": " имя",
+        "startMs": 2092.959482758621,
+        "endMs": 2408.9431034482764,
+        "timestampMs": 2250.9512931034487,
+        "confidence": null
+      },
+      {
+        "text": " И",
+        "startMs": 2951.759482758621,
+        "endMs": 3121.9103448275864,
+        "timestampMs": 3036.8349137931036,
+        "confidence": null
+      },
+      {
+        "text": " тут",
+        "startMs": 3121.9103448275864,
+        "endMs": 3259.6612068965524,
+        "timestampMs": 3190.7857758620694,
+        "confidence": null
+      },
+      {
+        "text": " городская",
+        "startMs": 3259.6620689655174,
+        "endMs": 3567.528448275863,
+        "timestampMs": 3413.5952586206904,
+        "confidence": null
+      },
+      {
+        "text": " сирена",
+        "startMs": 3567.528448275862,
+        "endMs": 3826.7956896551723,
+        "timestampMs": 3697.1620689655174,
+        "confidence": null
+      },
+      {
+        "text": " включилась",
+        "startMs": 3826.7956896551723,
+        "endMs": 4215.696551724138,
+        "timestampMs": 4021.246120689655,
+        "confidence": null
+      },
+      {
+        "text": " на",
+        "startMs": 4215.696551724138,
+        "endMs": 4361.5293103448275,
+        "timestampMs": 4288.612931034482,
+        "confidence": null
+      },
+      {
+        "text": " десять",
+        "startMs": 4361.56551724138,
+        "endMs": 4604.596551724138,
+        "timestampMs": 4483.081034482759,
+        "confidence": null
+      },
+      {
+        "text": " минут",
+        "startMs": 4604.597413793103,
+        "endMs": 4799.065517241379,
+        "timestampMs": 4701.831465517242,
+        "confidence": null
+      },
+      {
+        "text": " раньше",
+        "startMs": 4799.06551724138,
+        "endMs": 5139.367241379311,
+        "timestampMs": 4969.2163793103455,
+        "confidence": null
+      }
+    ],
+    "seconds": 5.76,
+    "frames": 178,
+    "from": 1040
+  },
+  {
+    "id": "08",
+    "text": "Все вокруг остановились. Сразу. Даже собака перестала дышать. А голос прошептал: сейчас они будут менять улицу.",
+    "title": "ОНИ МЕНЯЮТ УЛИЦУ",
+    "label": "НЕ ДВИГАЙСЯ",
+    "kind": "freeze",
+    "captions": [
+      {
+        "text": " Все",
+        "startMs": 86.20689655172414,
+        "endMs": 337.3560344827587,
+        "timestampMs": 211.7814655172414,
+        "confidence": null
+      },
+      {
+        "text": " вокруг",
+        "startMs": 337.3560344827587,
+        "endMs": 669.5396551724139,
+        "timestampMs": 503.44784482758627,
+        "confidence": null
+      },
+      {
+        "text": " остановились",
+        "startMs": 669.5758620689655,
+        "endMs": 1188.1103448275865,
+        "timestampMs": 928.843103448276,
+        "confidence": null
+      },
+      {
+        "text": " Сразу",
+        "startMs": 1728.3405172413795,
+        "endMs": 2206.3577586206898,
+        "timestampMs": 1967.3491379310346,
+        "confidence": null
+      },
+      {
+        "text": " Даже",
+        "startMs": 2757.3275862068967,
+        "endMs": 3081.393103448276,
+        "timestampMs": 2919.3603448275867,
+        "confidence": null
+      },
+      {
+        "text": " собака",
+        "startMs": 3081.393103448276,
+        "endMs": 3405.4948275862075,
+        "timestampMs": 3243.443965517242,
+        "confidence": null
+      },
+      {
+        "text": " перестала",
+        "startMs": 3405.4956896551726,
+        "endMs": 3737.6793103448276,
+        "timestampMs": 3571.5874999999996,
+        "confidence": null
+      },
+      {
+        "text": " дышать",
+        "startMs": 3737.6793103448276,
+        "endMs": 4077.981034482759,
+        "timestampMs": 3907.830172413793,
+        "confidence": null
+      },
+      {
+        "text": " А",
+        "startMs": 4669.431896551725,
+        "endMs": 4815.264655172415,
+        "timestampMs": 4742.348275862069,
+        "confidence": null
+      },
+      {
+        "text": " голос",
+        "startMs": 4815.26551724138,
+        "endMs": 5042.13275862069,
+        "timestampMs": 4928.699137931034,
+        "confidence": null
+      },
+      {
+        "text": " прошептал",
+        "startMs": 5042.133620689656,
+        "endMs": 5414.834482758621,
+        "timestampMs": 5228.484051724137,
+        "confidence": null
+      },
+      {
+        "text": " сейчас",
+        "startMs": 5625.502586206897,
+        "endMs": 5933.368965517241,
+        "timestampMs": 5779.435775862069,
+        "confidence": null
+      },
+      {
+        "text": " они",
+        "startMs": 5933.368965517241,
+        "endMs": 6046.802586206896,
+        "timestampMs": 5990.08577586207,
+        "confidence": null
+      },
+      {
+        "text": " будут",
+        "startMs": 6046.802586206897,
+        "endMs": 6233.1525862068975,
+        "timestampMs": 6139.977586206896,
+        "confidence": null
+      },
+      {
+        "text": " менять",
+        "startMs": 6233.1534482758625,
+        "endMs": 6524.819827586207,
+        "timestampMs": 6378.986637931035,
+        "confidence": null
+      },
+      {
+        "text": " улицу",
+        "startMs": 6524.819827586208,
+        "endMs": 6897.520689655173,
+        "timestampMs": 6711.17025862069,
+        "confidence": null
+      }
+    ],
+    "seconds": 7.488,
+    "frames": 230,
+    "from": 1218
+  },
+  {
+    "id": "09",
+    "text": "Под ногами дрогнул асфальт. Где-то рядом сдвинулась целая стена. Я поднял край повязки. Всего на секунду.",
+    "title": "ОДНА СЕКУНДА",
+    "label": "НАРУШЕНИЕ ПРОТОКОЛА",
+    "kind": "reveal",
+    "captions": [
+      {
+        "text": " Под",
+        "startMs": 86.20689655172414,
+        "endMs": 232.0396551724138,
+        "timestampMs": 159.12327586206897,
+        "confidence": null
+      },
+      {
+        "text": " ногами",
+        "startMs": 232.0396551724138,
+        "endMs": 515.6241379310345,
+        "timestampMs": 373.8318965517241,
+        "confidence": null
+      },
+      {
+        "text": " дрогнул",
+        "startMs": 515.625,
+        "endMs": 831.6086206896551,
+        "timestampMs": 673.6168103448276,
+        "confidence": null
+      },
+      {
+        "text": " асфальт",
+        "startMs": 831.6086206896553,
+        "endMs": 1228.6267241379312,
+        "timestampMs": 1030.1176724137931,
+        "confidence": null
+      },
+      {
+        "text": " Где-то",
+        "startMs": 1776.9750000000004,
+        "endMs": 2101.04051724138,
+        "timestampMs": 1939.00775862069,
+        "confidence": null
+      },
+      {
+        "text": " рядом",
+        "startMs": 2101.041379310345,
+        "endMs": 2319.791379310345,
+        "timestampMs": 2210.416379310345,
+        "confidence": null
+      },
+      {
+        "text": " сдвинулась",
+        "startMs": 2319.791379310345,
+        "endMs": 2700.6103448275867,
+        "timestampMs": 2510.2008620689658,
+        "confidence": null
+      },
+      {
+        "text": " целая",
+        "startMs": 2700.6103448275867,
+        "endMs": 2951.759482758621,
+        "timestampMs": 2826.1849137931035,
+        "confidence": null
+      },
+      {
+        "text": " стена",
+        "startMs": 2951.759482758621,
+        "endMs": 3283.9431034482764,
+        "timestampMs": 3117.851293103449,
+        "confidence": null
+      },
+      {
+        "text": " Я",
+        "startMs": 3875.431034482759,
+        "endMs": 4142.7801724137935,
+        "timestampMs": 4009.1056034482763,
+        "confidence": null
+      },
+      {
+        "text": " поднял",
+        "startMs": 4142.7801724137935,
+        "endMs": 4442.564655172414,
+        "timestampMs": 4292.672413793104,
+        "confidence": null
+      },
+      {
+        "text": " край",
+        "startMs": 4442.564655172414,
+        "endMs": 4628.914655172414,
+        "timestampMs": 4535.739655172414,
+        "confidence": null
+      },
+      {
+        "text": " повязки",
+        "startMs": 4628.914655172414,
+        "endMs": 5034.014655172415,
+        "timestampMs": 4831.464655172414,
+        "confidence": null
+      },
+      {
+        "text": " Всего",
+        "startMs": 5584.985344827586,
+        "endMs": 5917.168965517241,
+        "timestampMs": 5751.077155172414,
+        "confidence": null
+      },
+      {
+        "text": " на",
+        "startMs": 5917.168965517242,
+        "endMs": 5998.16724137931,
+        "timestampMs": 5957.668103448276,
+        "confidence": null
+      },
+      {
+        "text": " секунду",
+        "startMs": 5998.168103448276,
+        "endMs": 6403.268103448277,
+        "timestampMs": 6200.718103448276,
+        "confidence": null
+      }
+    ],
+    "seconds": 7.008,
+    "frames": 216,
+    "from": 1448
+  },
+  {
+    "id": "10",
+    "text": "Передо мной стоял дом семнадцать. В окнах горел свет. А все люди на улице одновременно повернулись ко мне.",
+    "title": "ДОМ ПОЯВИЛСЯ",
+    "label": "ОБЪЕКТ 17",
+    "kind": "building",
+    "captions": [
+      {
+        "text": " Передо",
+        "startMs": 86.20689655172414,
+        "endMs": 296.875,
+        "timestampMs": 191.5409482758621,
+        "confidence": null
+      },
+      {
+        "text": " мной",
+        "startMs": 296.875,
+        "endMs": 458.90775862068966,
+        "timestampMs": 377.89137931034486,
+        "confidence": null
+      },
+      {
+        "text": " стоял",
+        "startMs": 458.90775862068966,
+        "endMs": 766.7741379310345,
+        "timestampMs": 612.840948275862,
+        "confidence": null
+      },
+      {
+        "text": " дом",
+        "startMs": 766.7741379310345,
+        "endMs": 936.9250000000002,
+        "timestampMs": 851.8495689655174,
+        "confidence": null
+      },
+      {
+        "text": " семнадцать",
+        "startMs": 936.9250000000002,
+        "endMs": 1390.6603448275864,
+        "timestampMs": 1163.7926724137933,
+        "confidence": null
+      },
+      {
+        "text": " В",
+        "startMs": 1930.8905172413795,
+        "endMs": 2117.2405172413796,
+        "timestampMs": 2024.0655172413797,
+        "confidence": null
+      },
+      {
+        "text": " окнах",
+        "startMs": 2117.241379310345,
+        "endMs": 2392.70775862069,
+        "timestampMs": 2254.9745689655174,
+        "confidence": null
+      },
+      {
+        "text": " горел",
+        "startMs": 2392.7439655172416,
+        "endMs": 2660.093103448276,
+        "timestampMs": 2526.418534482759,
+        "confidence": null
+      },
+      {
+        "text": " свет",
+        "startMs": 2660.093103448276,
+        "endMs": 2951.759482758621,
+        "timestampMs": 2805.926293103448,
+        "confidence": null
+      },
+      {
+        "text": " А",
+        "startMs": 3518.929310344828,
+        "endMs": 3656.680172413793,
+        "timestampMs": 3587.8047413793106,
+        "confidence": null
+      },
+      {
+        "text": " все",
+        "startMs": 3656.681034482759,
+        "endMs": 3802.5137931034487,
+        "timestampMs": 3729.5974137931044,
+        "confidence": null
+      },
+      {
+        "text": " люди",
+        "startMs": 3802.5137931034487,
+        "endMs": 3964.546551724138,
+        "timestampMs": 3883.530172413794,
+        "confidence": null
+      },
+      {
+        "text": " на",
+        "startMs": 3964.5474137931037,
+        "endMs": 4061.781034482759,
+        "timestampMs": 4013.164224137932,
+        "confidence": null
+      },
+      {
+        "text": " улице",
+        "startMs": 4061.781034482759,
+        "endMs": 4329.130172413794,
+        "timestampMs": 4195.455603448277,
+        "confidence": null
+      },
+      {
+        "text": " одновременно",
+        "startMs": 4329.130172413794,
+        "endMs": 4839.582758620691,
+        "timestampMs": 4584.356465517242,
+        "confidence": null
+      },
+      {
+        "text": " повернулись",
+        "startMs": 4839.582758620691,
+        "endMs": 5187.9663793103455,
+        "timestampMs": 5013.774568965518,
+        "confidence": null
+      },
+      {
+        "text": " ко",
+        "startMs": 5187.9663793103455,
+        "endMs": 5269.000862068966,
+        "timestampMs": 5228.483620689655,
+        "confidence": null
+      },
+      {
+        "text": " мне",
+        "startMs": 5269.000862068966,
+        "endMs": 5528.268103448277,
+        "timestampMs": 5398.634482758621,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.144,
+    "frames": 190,
+    "from": 1664
+  },
+  {
+    "id": "11",
+    "text": "Повязки скрывали пустоту. У них не было глаз. Ни у одного. И каждый улыбался.",
+    "title": "НИ У ОДНОГО",
+    "label": "НЕ СМОТРИ НА НИХ",
+    "kind": "faces",
+    "captions": [
+      {
+        "text": " Повязки",
+        "startMs": 86.20689655172414,
+        "endMs": 467.0258620689655,
+        "timestampMs": 276.6163793103448,
+        "confidence": null
+      },
+      {
+        "text": " скрывали",
+        "startMs": 467.0258620689655,
+        "endMs": 807.291379310345,
+        "timestampMs": 637.1586206896552,
+        "confidence": null
+      },
+      {
+        "text": " пустоту",
+        "startMs": 807.2913793103448,
+        "endMs": 1220.5094827586208,
+        "timestampMs": 1013.9004310344827,
+        "confidence": null
+      },
+      {
+        "text": " У",
+        "startMs": 1801.2568965517244,
+        "endMs": 1955.20775862069,
+        "timestampMs": 1878.232327586207,
+        "confidence": null
+      },
+      {
+        "text": " них",
+        "startMs": 1955.20775862069,
+        "endMs": 2133.4405172413794,
+        "timestampMs": 2044.3241379310348,
+        "confidence": null
+      },
+      {
+        "text": " не",
+        "startMs": 2133.4405172413794,
+        "endMs": 2271.1913793103454,
+        "timestampMs": 2202.3159482758624,
+        "confidence": null
+      },
+      {
+        "text": " было",
+        "startMs": 2271.1922413793104,
+        "endMs": 2417.0250000000005,
+        "timestampMs": 2344.1086206896553,
+        "confidence": null
+      },
+      {
+        "text": " глаз",
+        "startMs": 2417.0258620689656,
+        "endMs": 2708.6922413793104,
+        "timestampMs": 2562.859051724138,
+        "confidence": null
+      },
+      {
+        "text": " Ни",
+        "startMs": 3259.6620689655174,
+        "endMs": 3502.729310344828,
+        "timestampMs": 3381.1956896551724,
+        "confidence": null
+      },
+      {
+        "text": " у",
+        "startMs": 3502.729310344828,
+        "endMs": 3583.727586206897,
+        "timestampMs": 3543.228448275863,
+        "confidence": null
+      },
+      {
+        "text": " одного",
+        "startMs": 3583.7284482758623,
+        "endMs": 3964.5474137931037,
+        "timestampMs": 3774.1379310344832,
+        "confidence": null
+      },
+      {
+        "text": " И",
+        "startMs": 4547.916379310344,
+        "endMs": 4709.949137931034,
+        "timestampMs": 4628.93275862069,
+        "confidence": null
+      },
+      {
+        "text": " каждый",
+        "startMs": 4709.949137931035,
+        "endMs": 5009.733620689655,
+        "timestampMs": 4859.8413793103455,
+        "confidence": null
+      },
+      {
+        "text": " улыбался",
+        "startMs": 5009.733620689655,
+        "endMs": 5520.186206896552,
+        "timestampMs": 5264.959913793104,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.096,
+    "frames": 188,
+    "from": 1854
+  },
+  {
+    "id": "12",
+    "text": "Я бросился к двери. На замке было написано: откроется только тому, кто видит. Впервые мой страх стал ключом.",
+    "title": "ВИДИШЬ? ВХОДИ.",
+    "label": "ДОСТУП ПОДТВЕРЖДЁН",
+    "kind": "door",
+    "captions": [
+      {
+        "text": " Я",
+        "startMs": 86.20689655172414,
+        "endMs": 337.3560344827587,
+        "timestampMs": 211.7814655172414,
+        "confidence": null
+      },
+      {
+        "text": " бросился",
+        "startMs": 337.3560344827587,
+        "endMs": 693.8568965517242,
+        "timestampMs": 515.6064655172414,
+        "confidence": null
+      },
+      {
+        "text": " к",
+        "startMs": 693.8577586206897,
+        "endMs": 734.375,
+        "timestampMs": 714.1163793103449,
+        "confidence": null
+      },
+      {
+        "text": " двери",
+        "startMs": 734.375,
+        "endMs": 1026.041379310345,
+        "timestampMs": 880.2081896551725,
+        "confidence": null
+      },
+      {
+        "text": " На",
+        "startMs": 1566.306896551724,
+        "endMs": 1760.775,
+        "timestampMs": 1663.540948275862,
+        "confidence": null
+      },
+      {
+        "text": " замке",
+        "startMs": 1760.7758620689656,
+        "endMs": 1995.7250000000004,
+        "timestampMs": 1878.250431034483,
+        "confidence": null
+      },
+      {
+        "text": " было",
+        "startMs": 1995.7250000000004,
+        "endMs": 2125.3586206896553,
+        "timestampMs": 2060.541810344828,
+        "confidence": null
+      },
+      {
+        "text": " написано",
+        "startMs": 2125.3586206896553,
+        "endMs": 2481.859482758621,
+        "timestampMs": 2303.609051724138,
+        "confidence": null
+      },
+      {
+        "text": " откроется",
+        "startMs": 2619.5758620689658,
+        "endMs": 3024.675862068966,
+        "timestampMs": 2822.125862068966,
+        "confidence": null
+      },
+      {
+        "text": " только",
+        "startMs": 3024.7120689655176,
+        "endMs": 3235.343965517242,
+        "timestampMs": 3130.02801724138,
+        "confidence": null
+      },
+      {
+        "text": " тому",
+        "startMs": 3235.344827586207,
+        "endMs": 3470.2939655172418,
+        "timestampMs": 3352.8193965517244,
+        "confidence": null
+      },
+      {
+        "text": " кто",
+        "startMs": 3567.528448275862,
+        "endMs": 3705.2793103448275,
+        "timestampMs": 3636.4038793103446,
+        "confidence": null
+      },
+      {
+        "text": " видит",
+        "startMs": 3705.2801724137935,
+        "endMs": 4005.064655172414,
+        "timestampMs": 3855.1724137931037,
+        "confidence": null
+      },
+      {
+        "text": " Впервые",
+        "startMs": 4604.597413793103,
+        "endMs": 5009.697413793104,
+        "timestampMs": 4807.147413793103,
+        "confidence": null
+      },
+      {
+        "text": " мой",
+        "startMs": 5009.733620689655,
+        "endMs": 5139.367241379311,
+        "timestampMs": 5074.550431034483,
+        "confidence": null
+      },
+      {
+        "text": " страх",
+        "startMs": 5139.367241379311,
+        "endMs": 5390.516379310345,
+        "timestampMs": 5264.941810344828,
+        "confidence": null
+      },
+      {
+        "text": " стал",
+        "startMs": 5390.517241379311,
+        "endMs": 5617.384482758621,
+        "timestampMs": 5503.950862068967,
+        "confidence": null
+      },
+      {
+        "text": " ключом",
+        "startMs": 5617.384482758621,
+        "endMs": 5981.967241379311,
+        "timestampMs": 5799.675862068966,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.6,
+    "frames": 203,
+    "from": 2042
+  },
+  {
+    "id": "13",
+    "text": "Внутри — десятки фотографий. На каждой я. Ребёнком, подростком, сегодня утром. Последняя ещё тёплая.",
+    "title": "ОНИ ЗНАЛИ МЕНЯ",
+    "label": "АРХИВ / МАРК",
+    "kind": "archive",
+    "captions": [
+      {
+        "text": " Внутри",
+        "startMs": 86.20689655172414,
+        "endMs": 564.2241379310345,
+        "timestampMs": 325.21551724137936,
+        "confidence": null
+      },
+      {
+        "text": " десятки",
+        "startMs": 734.375,
+        "endMs": 1082.7586206896553,
+        "timestampMs": 908.5668103448277,
+        "confidence": null
+      },
+      {
+        "text": " фотографий",
+        "startMs": 1082.7586206896553,
+        "endMs": 1560.7758620689656,
+        "timestampMs": 1321.7672413793105,
+        "confidence": null
+      },
+      {
+        "text": " На",
+        "startMs": 2101.041379310345,
+        "endMs": 2295.509482758621,
+        "timestampMs": 2198.2754310344826,
+        "confidence": null
+      },
+      {
+        "text": " каждой",
+        "startMs": 2295.509482758621,
+        "endMs": 2546.6586206896554,
+        "timestampMs": 2421.0840517241386,
+        "confidence": null
+      },
+      {
+        "text": " я",
+        "startMs": 2546.659482758621,
+        "endMs": 2692.4922413793106,
+        "timestampMs": 2619.5758620689658,
+        "confidence": null
+      },
+      {
+        "text": " Ребёнком",
+        "startMs": 2692.4922413793106,
+        "endMs": 3105.7103448275866,
+        "timestampMs": 2899.101293103449,
+        "confidence": null
+      },
+      {
+        "text": " подростком",
+        "startMs": 3227.262931034483,
+        "endMs": 3656.681034482759,
+        "timestampMs": 3441.971982758621,
+        "confidence": null
+      },
+      {
+        "text": " сегодня",
+        "startMs": 3778.196551724138,
+        "endMs": 4110.380172413793,
+        "timestampMs": 3944.288362068966,
+        "confidence": null
+      },
+      {
+        "text": " утром",
+        "startMs": 4110.380172413794,
+        "endMs": 4385.846551724138,
+        "timestampMs": 4248.113362068965,
+        "confidence": null
+      },
+      {
+        "text": " Последняя",
+        "startMs": 4936.81724137931,
+        "endMs": 5406.716379310345,
+        "timestampMs": 5171.766810344828,
+        "confidence": null
+      },
+      {
+        "text": " ещё",
+        "startMs": 5406.7163793103455,
+        "endMs": 5690.300862068966,
+        "timestampMs": 5548.508620689656,
+        "confidence": null
+      },
+      {
+        "text": " тёплая",
+        "startMs": 5690.301724137931,
+        "endMs": 6152.118965517241,
+        "timestampMs": 5921.210344827586,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.768,
+    "frames": 209,
+    "from": 2245
+  },
+  {
+    "id": "14",
+    "text": "На ней я стою в этой комнате. А за моей спиной уже открывается коробка. Я медленно обернулся.",
+    "title": "СНИМОК ИЗ БУДУЩЕГО",
+    "label": "СДЕЛАНО ЧЕРЕЗ 5 СЕКУНД",
+    "kind": "photo",
+    "captions": [
+      {
+        "text": " На",
+        "startMs": 86.20689655172414,
+        "endMs": 296.875,
+        "timestampMs": 191.5409482758621,
+        "confidence": null
+      },
+      {
+        "text": " ней",
+        "startMs": 296.875,
+        "endMs": 442.7077586206896,
+        "timestampMs": 369.79137931034484,
+        "confidence": null
+      },
+      {
+        "text": " я",
+        "startMs": 442.70775862068973,
+        "endMs": 539.9413793103449,
+        "timestampMs": 491.3245689655173,
+        "confidence": null
+      },
+      {
+        "text": " стою",
+        "startMs": 539.9422413793103,
+        "endMs": 791.0913793103448,
+        "timestampMs": 665.5168103448275,
+        "confidence": null
+      },
+      {
+        "text": " в",
+        "startMs": 791.0913793103449,
+        "endMs": 839.6905172413794,
+        "timestampMs": 815.3909482758621,
+        "confidence": null
+      },
+      {
+        "text": " этой",
+        "startMs": 839.6905172413794,
+        "endMs": 977.441379310345,
+        "timestampMs": 908.5659482758622,
+        "confidence": null
+      },
+      {
+        "text": " комнате",
+        "startMs": 977.4422413793105,
+        "endMs": 1366.343103448276,
+        "timestampMs": 1171.8926724137932,
+        "confidence": null
+      },
+      {
+        "text": " А",
+        "startMs": 1906.6086206896555,
+        "endMs": 2036.2422413793106,
+        "timestampMs": 1971.425431034483,
+        "confidence": null
+      },
+      {
+        "text": " за",
+        "startMs": 2036.2422413793106,
+        "endMs": 2109.1586206896554,
+        "timestampMs": 2072.7004310344832,
+        "confidence": null
+      },
+      {
+        "text": " моей",
+        "startMs": 2109.159482758621,
+        "endMs": 2279.3103448275865,
+        "timestampMs": 2194.2349137931037,
+        "confidence": null
+      },
+      {
+        "text": " спиной",
+        "startMs": 2279.3103448275865,
+        "endMs": 2554.7767241379315,
+        "timestampMs": 2417.043534482759,
+        "confidence": null
+      },
+      {
+        "text": " уже",
+        "startMs": 2554.7767241379315,
+        "endMs": 2765.4086206896554,
+        "timestampMs": 2660.0926724137935,
+        "confidence": null
+      },
+      {
+        "text": " открывается",
+        "startMs": 2765.409482758621,
+        "endMs": 3146.2284482758623,
+        "timestampMs": 2955.8189655172414,
+        "confidence": null
+      },
+      {
+        "text": " коробка",
+        "startMs": 3146.2284482758623,
+        "endMs": 3518.929310344828,
+        "timestampMs": 3332.578879310345,
+        "confidence": null
+      },
+      {
+        "text": " Я",
+        "startMs": 4102.298275862069,
+        "endMs": 4353.447413793104,
+        "timestampMs": 4227.872844827587,
+        "confidence": null
+      },
+      {
+        "text": " медленно",
+        "startMs": 4353.448275862069,
+        "endMs": 4742.349137931034,
+        "timestampMs": 4547.898706896552,
+        "confidence": null
+      },
+      {
+        "text": " обернулся",
+        "startMs": 4742.349137931034,
+        "endMs": 5309.48275862069,
+        "timestampMs": 5025.915948275862,
+        "confidence": null
+      }
+    ],
+    "seconds": 5.904,
+    "frames": 183,
+    "from": 2454
+  },
+  {
+    "id": "15",
+    "text": "Внутри лежал телефон. Он зазвонил. На экране: мама. Но маму забрали двенадцать лет назад.",
+    "title": "МАМА",
+    "label": "ВХОДЯЩИЙ ВЫЗОВ",
+    "kind": "phone",
+    "captions": [
+      {
+        "text": " Внутри",
+        "startMs": 86.20689655172414,
+        "endMs": 483.22499999999997,
+        "timestampMs": 284.71594827586205,
+        "confidence": null
+      },
+      {
+        "text": " лежал",
+        "startMs": 483.2250000000001,
+        "endMs": 750.5741379310346,
+        "timestampMs": 616.8995689655173,
+        "confidence": null
+      },
+      {
+        "text": " телефон",
+        "startMs": 750.5741379310346,
+        "endMs": 1107.0750000000003,
+        "timestampMs": 928.8245689655173,
+        "confidence": null
+      },
+      {
+        "text": " Он",
+        "startMs": 1687.823275862069,
+        "endMs": 1906.573275862069,
+        "timestampMs": 1797.198275862069,
+        "confidence": null
+      },
+      {
+        "text": " зазвонил",
+        "startMs": 1906.6086206896555,
+        "endMs": 2352.225862068966,
+        "timestampMs": 2129.417241379311,
+        "confidence": null
+      },
+      {
+        "text": " На",
+        "startMs": 2903.1603448275864,
+        "endMs": 3073.311206896552,
+        "timestampMs": 2988.235775862069,
+        "confidence": null
+      },
+      {
+        "text": " экране",
+        "startMs": 3073.311206896552,
+        "endMs": 3373.095689655173,
+        "timestampMs": 3223.2034482758622,
+        "confidence": null
+      },
+      {
+        "text": " мама",
+        "startMs": 3583.7284482758623,
+        "endMs": 3899.7120689655176,
+        "timestampMs": 3741.7202586206904,
+        "confidence": null
+      },
+      {
+        "text": " Но",
+        "startMs": 4450.681896551725,
+        "endMs": 4637.0318965517245,
+        "timestampMs": 4543.856896551724,
+        "confidence": null
+      },
+      {
+        "text": " маму",
+        "startMs": 4637.0327586206895,
+        "endMs": 4807.183620689655,
+        "timestampMs": 4722.108189655172,
+        "confidence": null
+      },
+      {
+        "text": " забрали",
+        "startMs": 4807.183620689655,
+        "endMs": 5106.931896551724,
+        "timestampMs": 4957.05775862069,
+        "confidence": null
+      },
+      {
+        "text": " двенадцать",
+        "startMs": 5106.931896551725,
+        "endMs": 5512.0318965517245,
+        "timestampMs": 5309.481896551724,
+        "confidence": null
+      },
+      {
+        "text": " лет",
+        "startMs": 5512.068965517242,
+        "endMs": 5649.784482758621,
+        "timestampMs": 5580.926724137931,
+        "confidence": null
+      },
+      {
+        "text": " назад",
+        "startMs": 5649.784482758621,
+        "endMs": 5998.168103448276,
+        "timestampMs": 5823.976293103448,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.624,
+    "frames": 204,
+    "from": 2637
+  },
+  {
+    "id": "16",
+    "text": "Я ответил. Она сказала: Марк, слушай внимательно. Не верь ребёнку. Он уже стоит за тобой.",
+    "title": "ОН УЖЕ ЗА ТОБОЙ",
+    "label": "ПРОДОЛЖЕНИЕ · СЕРИЯ 02",
+    "kind": "cliff",
+    "captions": [
+      {
+        "text": " Я",
+        "startMs": 86.20689655172414,
+        "endMs": 329.27413793103455,
+        "timestampMs": 207.74051724137934,
+        "confidence": null
+      },
+      {
+        "text": " ответил",
+        "startMs": 329.27413793103455,
+        "endMs": 726.2922413793104,
+        "timestampMs": 527.7831896551725,
+        "confidence": null
+      },
+      {
+        "text": " Она",
+        "startMs": 1266.5224137931034,
+        "endMs": 1469.0724137931036,
+        "timestampMs": 1367.7974137931035,
+        "confidence": null
+      },
+      {
+        "text": " сказала",
+        "startMs": 1469.073275862069,
+        "endMs": 1776.939655172414,
+        "timestampMs": 1623.0064655172414,
+        "confidence": null
+      },
+      {
+        "text": " Марк",
+        "startMs": 1987.6077586206898,
+        "endMs": 2206.3577586206898,
+        "timestampMs": 2096.9827586206898,
+        "confidence": null
+      },
+      {
+        "text": " слушай",
+        "startMs": 2279.3103448275865,
+        "endMs": 2595.2939655172418,
+        "timestampMs": 2437.302155172414,
+        "confidence": null
+      },
+      {
+        "text": " внимательно",
+        "startMs": 2595.2939655172418,
+        "endMs": 3073.311206896552,
+        "timestampMs": 2834.302586206897,
+        "confidence": null
+      },
+      {
+        "text": " Не",
+        "startMs": 3640.4448275862073,
+        "endMs": 3867.312068965518,
+        "timestampMs": 3753.878448275862,
+        "confidence": null
+      },
+      {
+        "text": " верь",
+        "startMs": 3867.3129310344825,
+        "endMs": 4021.263793103448,
+        "timestampMs": 3944.288362068966,
+        "confidence": null
+      },
+      {
+        "text": " ребёнку",
+        "startMs": 4021.2637931034487,
+        "endMs": 4491.199137931035,
+        "timestampMs": 4256.231465517242,
+        "confidence": null
+      },
+      {
+        "text": " Он",
+        "startMs": 5066.450862068966,
+        "endMs": 5260.88275862069,
+        "timestampMs": 5163.666810344827,
+        "confidence": null
+      },
+      {
+        "text": " уже",
+        "startMs": 5260.883620689656,
+        "endMs": 5422.916379310345,
+        "timestampMs": 5341.9,
+        "confidence": null
+      },
+      {
+        "text": " стоит",
+        "startMs": 5422.916379310345,
+        "endMs": 5682.183620689655,
+        "timestampMs": 5552.55,
+        "confidence": null
+      },
+      {
+        "text": " за",
+        "startMs": 5682.183620689655,
+        "endMs": 5779.41724137931,
+        "timestampMs": 5730.800431034482,
+        "confidence": null
+      },
+      {
+        "text": " тобой",
+        "startMs": 5779.418103448276,
+        "endMs": 6079.202586206897,
+        "timestampMs": 5929.310344827587,
+        "confidence": null
+      }
+    ],
+    "seconds": 6.696,
+    "frames": 224,
+    "from": 2841
+  }
+]

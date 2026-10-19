@@ -1,0 +1,69 @@
+import React from 'react';
+import {AbsoluteFill,CanvasImage,Sequence,staticFile,useCurrentFrame,useVideoConfig,interpolate,spring,Easing} from 'remotion';
+import {Audio} from '@remotion/media';
+import scenes from './data.json';
+
+const white='#f6f2e9', lime='#ddfa76', red='#ff735e';
+const clamp={extrapolateLeft:'clamp',extrapolateRight:'clamp'} as const;
+const ease=Easing.bezier(.16,1,.3,1);
+const mono='DejaVu Sans Mono, monospace';
+
+const Reveal:React.FC<{children:React.ReactNode;at?:number;style?:React.CSSProperties}>=({children,at=0,style})=>{
+ const f=useCurrentFrame();const {fps}=useVideoConfig();const p=spring({frame:f-at,fps,config:{damping:19,stiffness:140,mass:.7}});
+ return <div style={{opacity:interpolate(f,[at,at+7],[0,1],clamp),translate:`0 ${(1-p)*80}px`,scale:.93+p*.07,...style}}>{children}</div>;
+};
+
+const Ticket:React.FC<{label:string;value:string;red?:boolean}>=({label,value,red:danger})=><div style={{padding:'28px 34px',borderRadius:24,background:danger?'#321b19ed':'#152322ec',border:`1px solid ${danger?'#b65745':'#788e75'}`,boxShadow:'0 18px 80px #0008',maxWidth:780}}><div style={{fontFamily:mono,fontSize:24,letterSpacing:3,color:danger?red:lime,marginBottom:10}}>{label}</div><div style={{fontSize:49,fontWeight:750,lineHeight:1.12,color:white}}>{value}</div></div>;
+
+const Parcel:React.FC<{open?:boolean}>=({open})=>{const f=useCurrentFrame();return <div style={{position:'absolute',left:180,top:630,width:720,height:570,perspective:1600,translate:`0 ${Math.sin(f/30)*12}px`,rotate:`${Math.sin(f/55)*2-5}deg`}}><div style={{position:'absolute',inset:0,background:'linear-gradient(140deg,#b7996d,#775f40)',borderRadius:12,boxShadow:'40px 65px 100px #000a',rotate:open?'-3deg':'0deg',border:'2px solid #cfb887'}}/><div style={{position:'absolute',top:0,bottom:0,left:308,width:94,background:'#514c37',opacity:.8}}/><div style={{position:'absolute',top:86,left:75,width:420,padding:34,background:'#eee8d8',color:'#242b27',rotate:'-6deg',boxShadow:'0 5px 12px #0003'}}><div style={{fontFamily:mono,fontSize:24}}>ПОЛУЧАТЕЛЬ: —</div><div style={{fontSize:92,fontWeight:900,letterSpacing:-7}}>ДОМ 17</div><div style={{height:38,background:'repeating-linear-gradient(90deg,#202923 0 3px,transparent 3px 8px,#202923 8px 10px,transparent 10px 13px)',marginTop:20}}/></div><div style={{position:'absolute',bottom:44,right:48,fontFamily:mono,fontSize:26,color:'#e8dec7',letterSpacing:3}}>ДО СИРЕНЫ</div></div>};
+
+const Phone:React.FC<{answered?:boolean}>=({answered})=>{const f=useCurrentFrame();return <div style={{position:'absolute',top:380,left:230,width:620,height:1040,borderRadius:76,background:'linear-gradient(150deg,#273b37,#0c151c)',border:'10px solid #7c8882',boxShadow:'0 40px 110px #000b',rotate:`${Math.sin(f/38)*2}deg`,overflow:'hidden'}}><div style={{width:180,height:37,borderRadius:30,background:'#020404',margin:'24px auto'}}/><div style={{textAlign:'center',paddingTop:125,color:white}}><div style={{fontSize:26,letterSpacing:5,color:'#a1b7b0'}}>ВХОДЯЩИЙ ВЫЗОВ</div><div style={{fontSize:100,fontWeight:750,marginTop:46}}>Мама</div><div style={{fontSize:30,marginTop:20,color:'#d1ded7'}}>{answered?'соединение установлено':'+7 ••• ••• 12 04'}</div><div style={{width:150,height:150,borderRadius:'50%',border:'1px solid #a4b49a',margin:'65px auto',display:'grid',placeItems:'center',background:'#5a6c5250',boxShadow:`0 0 0 ${8+Math.sin(f/7)*7}px #ddfa7618`}}><span style={{fontSize:80}}>М</span></div><div style={{display:'flex',gap:6,justifyContent:'center',height:50,alignItems:'center'}}>{Array.from({length:30},(_,i)=><div key={i} style={{width:6,height:8+Math.abs(Math.sin(f*.13+i*.8))*40,background:lime,borderRadius:8}}/>)}</div><div style={{fontFamily:mono,fontSize:20,color:lime,marginTop:24}}>{answered?'00:0'+Math.floor(f/30)%10:'НЕИЗВЕСТНЫЙ НОМЕР'}</div></div><div style={{position:'absolute',bottom:55,left:0,right:0,display:'flex',justifyContent:'space-around'}}><div style={{height:86,width:86,background:red,borderRadius:'50%',display:'grid',placeItems:'center',fontSize:58,rotate:'135deg'}}>☎</div><div style={{height:86,width:86,background:lime,borderRadius:'50%',display:'grid',placeItems:'center',fontSize:58,color:'#19251c'}}>☎</div></div></div>};
+
+const Map:React.FC=()=>{const f=useCurrentFrame();return <div style={{position:'absolute',left:85,right:85,top:430,height:850,borderRadius:42,background:'#dae1cc',rotate:`${interpolate(f,[0,180],[-6,2],clamp)}deg`,overflow:'hidden',boxShadow:'0 30px 100px #000a'}}><svg width="910" height="850" viewBox="0 0 910 850"><defs><pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M 100 0 L 0 0 0 100" fill="none" stroke="#b6c1a7" strokeWidth="2"/></pattern></defs><rect width="910" height="850" fill="url(#grid)"/><path d="M -50 650 L 200 650 L 200 350 L 690 350 L 690 80" stroke="#839b79" strokeWidth="85" fill="none"/><path d="M -50 650 L 200 650 L 200 350 L 690 350 L 690 80" stroke="#f6f1de" strokeWidth="55" fill="none"/>{Array.from({length:16},(_,i)=><g key={i}><rect x={80+i%4*200} y={90+Math.floor(i/4)*175} width="96" height="87" rx="12" fill="#a5b595"/><text x={128+i%4*200} y={147+Math.floor(i/4)*175} fill="#344631" fontSize="31" fontFamily="Arial" textAnchor="middle">{i+1}</text></g>)}<path d="M 120 710 L 220 610 L 220 420 L 650 420" stroke="#253e31" strokeWidth="9" fill="none" strokeDasharray="1000" strokeDashoffset={interpolate(f,[0,90],[1000,0],clamp)}/><circle cx="735" cy="685" r={70+Math.sin(f/8)*6} fill="#f46d52"/><text x="735" y="705" textAnchor="middle" fill="#fff" fontSize="60" fontWeight="bold">17?</text></svg></div>};
+
+const Captions:React.FC<{index:number}>=({index})=>{const f=useCurrentFrame();const {fps}=useVideoConfig();const caps=scenes[index].captions;const ms=f/fps*1000;let current=caps.findIndex(c=>ms>=c.startMs&&ms<c.endMs);if(current<0){current=caps.findIndex(c=>c.startMs>ms)-1;if(current<0)current=ms<(caps[0]?.startMs??0)?0:caps.length-1;}const first=Math.max(0,Math.floor(current/4)*4);const words=caps.slice(first,first+4);const start=words[0]?.startMs??0;return <div style={{position:'absolute',left:90,right:90,bottom:285,textAlign:'center',fontSize:62,fontWeight:800,lineHeight:1.18,letterSpacing:-1.6,textShadow:'0 4px 16px #000,0 0 35px #000',translate:`0 ${interpolate(ms,[start,start+85],[12,0],clamp)}px`}}>{words.map((c,i)=><span key={first+i} style={{color:first+i===current?lime:white}}>{c.text}</span>)}</div>};
+
+export const Shot:React.FC<{index:number}>=({index})=>{
+ const f=useCurrentFrame();const {fps}=useVideoConfig();const s=scenes[index];const p=f/s.frames;
+ const image=s.kind==='faces'?'faces':index<8?'street':index<12?'building':'room';
+ const cut=Math.floor(f/(2.1*fps));
+ const focusX=[50,44,57,49][cut%4];
+ const camera=interpolate(f,[0,s.frames],[1.07,1.22],clamp)+cut*.028;
+ const slide=interpolate(f,[0,20],[45,0],{...clamp,easing:ease});
+ const object=['parcel','knock'].includes(s.kind)?'parcel':s.kind==='map'?'map':['phone','cliff'].includes(s.kind)?'phone':'';
+ const titleAt=index===0?0:14;
+ return <AbsoluteFill style={{background:'#0b141a',color:white,fontFamily:'DejaVu Sans, Arial, sans-serif',overflow:'hidden'}}>
+  <CanvasImage src={staticFile(`episode/${image}.jpg`)} premountFor={fps} style={{position:'absolute',width:'100%',height:'100%',objectFit:'cover',objectPosition:`${50+(focusX-50)*interpolate(f%(2.1*fps),[0,12],[0,1],{...clamp,easing:ease})}% 50%`,scale:camera,translate:`${Math.sin(f/90)*10-slide}px ${Math.cos(f/100)*12}px`,filter:index===7?'saturate(.25)':'saturate(.85)'}}/>
+  <AbsoluteFill style={{background:'linear-gradient(180deg,#07101970 0%,transparent 24%,#06101518 46%,#050b11db 81%,#050b11 100%)'}}/>
+  {Array.from({length:24},(_,i)=><div key={i} style={{position:'absolute',width:1,height:32+(i%4)*13,background:'#d1e8e832',left:(i*47+f*.65)%1080,top:(i*157+f*(8+i%3))%1920,rotate:'16deg'}}/>)}
+  <div style={{position:'absolute',left:80,right:100,top:94,display:'flex',justifyContent:'space-between',alignItems:'center',fontFamily:mono,fontSize:24,letterSpacing:2}}><div style={{padding:'14px 21px',background:'#0d1b1dc9',border:'1px solid #b5c7b74f',borderRadius:40}}>ГОРОД СЛЕПЫХ</div><div style={{color:lime}}>01 / 10</div></div>
+  <Reveal at={titleAt} style={{position:'absolute',top:230,left:85,right:95}}><div style={{fontFamily:mono,fontSize:23,letterSpacing:4,color:lime,marginBottom:18}}>{s.label}</div><div style={{fontSize:index===0?106:84,fontWeight:800,lineHeight:1.01,letterSpacing:-4,textShadow:'0 4px 24px #0009'}}>{s.title}</div></Reveal>
+  {object==='parcel'&&<Reveal at={15}><Parcel open={s.kind==='knock'}/></Reveal>}
+  {object==='map'&&<Reveal at={12}><Map/></Reveal>}
+  {object==='phone'&&<Reveal at={12}><Phone answered={s.kind==='cliff'}/></Reveal>}
+  {s.kind==='identity'&&<Reveal at={30} style={{position:'absolute',left:100,top:980,rotate:'-4deg'}}><Ticket label="КУРЬЕР № 024" value="Марк. 23 года."/></Reveal>}
+  {s.kind==='rule'&&<Reveal at={43} style={{position:'absolute',right:100,top:1050,rotate:'4deg'}}><Ticket label="ГОРОДСКОЙ ПРОТОКОЛ" value="Повязку не снимать" red/></Reveal>}
+  {s.kind==='parcel'&&<Reveal at={s.frames*.52} style={{position:'absolute',left:150,top:1200,rotate:'3deg'}}><Ticket label="НАПИСАНО ОТ РУКИ" value="Доставить до сирены"/></Reveal>}
+  {s.kind==='knock'&&<Reveal at={s.frames*.52} style={{position:'absolute',left:100,top:1210}}><Ticket label="ВНУТРИ КОРОБКИ" value="«Марк, не отдавай меня»" red/></Reveal>}
+  {s.kind==='alarm'&&<Reveal at={15} style={{position:'absolute',left:120,right:120,top:720,textAlign:'center'}}><div style={{fontFamily:mono,fontSize:180,fontWeight:700,color:red,letterSpacing:-12}}>18:50</div><div style={{fontFamily:mono,fontSize:38,color:white,marginTop:30}}>НА 10 МИНУТ РАНЬШЕ</div><div style={{height:8,background:'#ff735e40',marginTop:45,borderRadius:8}}><div style={{height:8,width:`${(1-p)*100}%`,background:red,borderRadius:8}}/></div></Reveal>}
+  {s.kind==='freeze'&&<Reveal at={30} style={{position:'absolute',left:100,top:1080}}><Ticket label="ГОРОД ОСТАНОВИЛСЯ" value="Только ты ещё дышишь" red/></Reveal>}
+  {s.kind==='reveal'&&<><div style={{position:'absolute',top:0,left:0,right:0,height:interpolate(f,[0,60],[860,0],clamp),background:'#020406',boxShadow:'0 40px 70px #000'}}/><div style={{position:'absolute',bottom:0,left:0,right:0,height:interpolate(f,[0,65],[850,0],clamp),background:'#020406',boxShadow:'0 -40px 70px #000'}}/></>}
+  {s.kind==='building'&&<Reveal at={22} style={{position:'absolute',right:130,top:1020}}><div style={{width:230,height:160,border:'2px solid #ddfa76',borderRadius:24,boxShadow:'0 0 0 12px #ddfa7614',display:'grid',placeItems:'center',fontSize:85,fontFamily:mono,color:lime}}>17</div></Reveal>}
+  {s.kind==='faces'&&<Reveal at={40} style={{position:'absolute',left:110,top:1190}}><Ticket label="ОШИБКА РАСПОЗНАВАНИЯ" value="Человек не обнаружен" red/></Reveal>}
+  {s.kind==='door'&&<Reveal at={s.frames*.38} style={{position:'absolute',left:120,top:1060}}><Ticket label="РАСПОЗНАВАНИЕ ЗРЕНИЯ" value="✓ Дверь разблокирована"/></Reveal>}
+  {['archive','photo'].includes(s.kind)&&<Reveal at={16} style={{position:'absolute',left:210,top:650,width:650,height:740,background:'#ece8db',padding:26,rotate:`${-5+Math.sin(f/36)*2}deg`,boxShadow:'20px 25px 65px #0009'}}><CanvasImage src={staticFile(`episode/${s.kind==='archive'?'street':'room'}.jpg`)} premountFor={fps} style={{width:'100%',height:590,objectFit:'cover',filter:'grayscale(.6)'}}/><div style={{fontFamily:mono,color:'#26312a',fontSize:29,marginTop:28}}>{s.kind==='archive'?'МАРК / НАБЛЮДЕНИЕ 024':'ВРЕМЯ СНИМКА: +00:05'}</div></Reveal>}
+  {s.kind==='cliff'&&<Reveal at={Math.max(50,s.frames-80)} style={{position:'absolute',left:100,right:100,top:1300}}><Ticket label="СЕРИЯ 02 · НЕ ОБОРАЧИВАЙСЯ" value="КТО СТОИТ ЗА МАРКОМ?" red/></Reveal>}
+  <Captions index={index}/>
+  <div style={{position:'absolute',bottom:142,left:85,right:100,display:'flex',alignItems:'center',gap:20,fontFamily:mono,fontSize:22,letterSpacing:2,color:'#b0c5c1'}}><span style={{color:lime}}>ДОМ 17</span><div style={{flex:1,height:2,background:'#a2b4ad3d'}}><div style={{height:2,background:lime,width:`${Math.min(100,(s.from+f)/scenes.reduce((v,x)=>v+x.frames,0)*100)}%`}}/></div><span>{String(index+1).padStart(2,'0')}</span></div>
+  <div style={{position:'absolute',inset:0,border:'1px solid transparent',boxShadow:'inset 0 0 110px #0007',pointerEvents:'none'}}/>
+  <Audio src={staticFile(`episode/audio/${s.id}.mp3`)} volume={1.08} premountFor={fps}/>
+  <Audio src={staticFile('episode/swish.wav')} volume={.33} premountFor={fps}/>
+  <Sequence from={titleAt+4} durationInFrames={12} premountFor={fps}><Audio src={staticFile('episode/pop.wav')} volume={.35} premountFor={fps}/></Sequence>
+  {['parcel','map','phone','archive','photo','cliff','identity','rule'].includes(s.kind)&&<Sequence from={30} durationInFrames={12} premountFor={fps}><Audio src={staticFile('episode/pop.wav')} volume={.45} premountFor={fps}/></Sequence>}
+  {s.kind==='knock'&&<><Sequence from={55} durationInFrames={10} premountFor={fps}><Audio src={staticFile('episode/knock.wav')} premountFor={fps}/></Sequence><Sequence from={65} durationInFrames={10} premountFor={fps}><Audio src={staticFile('episode/knock.wav')} premountFor={fps}/></Sequence><Sequence from={75} durationInFrames={10} premountFor={fps}><Audio src={staticFile('episode/knock.wav')} premountFor={fps}/></Sequence></>}
+  {s.kind==='alarm'&&<Audio src={staticFile('episode/alarm.wav')} volume={.45} premountFor={fps}/>}
+  {s.kind==='phone'&&<Audio src={staticFile('episode/ring.wav')} volume={.5} premountFor={fps}/>}
+  {['cliff','faces','reveal'].includes(s.kind)&&<Audio src={staticFile('episode/impact.wav')} volume={.5} premountFor={fps}/>}
+  <AbsoluteFill style={{background:'#edf0d5',opacity:interpolate(f,[0,5,10],[.1,.025,0],clamp),pointerEvents:'none'}}/>
+ </AbsoluteFill>;
+};
