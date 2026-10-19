@@ -1,0 +1,100 @@
+[
+  {
+    "text": " Проблема",
+    "startMs": 100.0,
+    "endMs": 475.958,
+    "timestampMs": 287.97900000000004,
+    "confidence": null
+  },
+  {
+    "text": " в",
+    "startMs": 475.958,
+    "endMs": 522.916,
+    "timestampMs": 499.437,
+    "confidence": null
+  },
+  {
+    "text": " том",
+    "startMs": 522.916,
+    "endMs": 720.291,
+    "timestampMs": 621.6035,
+    "confidence": null
+  },
+  {
+    "text": " что",
+    "startMs": 889.458,
+    "endMs": 1039.833,
+    "timestampMs": 964.6455000000001,
+    "confidence": null
+  },
+  {
+    "text": " на",
+    "startMs": 1039.833,
+    "endMs": 1096.208,
+    "timestampMs": 1068.0205,
+    "confidence": null
+  },
+  {
+    "text": " моей",
+    "startMs": 1096.25,
+    "endMs": 1340.583,
+    "timestampMs": 1218.4165,
+    "confidence": null
+  },
+  {
+    "text": " улице",
+    "startMs": 1340.583,
+    "endMs": 1697.708,
+    "timestampMs": 1519.1455,
+    "confidence": null
+  },
+  {
+    "text": " всего",
+    "startMs": 1697.75,
+    "endMs": 2017.291,
+    "timestampMs": 1857.5205,
+    "confidence": null
+  },
+  {
+    "text": " шестнадцать",
+    "startMs": 2017.291,
+    "endMs": 2449.624,
+    "timestampMs": 2233.4575,
+    "confidence": null
+  },
+  {
+    "text": " домов",
+    "startMs": 2449.625,
+    "endMs": 2816.166,
+    "timestampMs": 2632.8955,
+    "confidence": null
+  },
+  {
+    "text": " Я",
+    "startMs": 3499.25,
+    "endMs": 3790.583,
+    "timestampMs": 3644.9165000000003,
+    "confidence": null
+  },
+  {
+    "text": " проверял",
+    "startMs": 3790.583,
+    "endMs": 4260.499,
+    "timestampMs": 4025.541,
+    "confidence": null
+  },
+  {
+    "text": " Каждый",
+    "startMs": 4909.041,
+    "endMs": 5294.374,
+    "timestampMs": 5101.7075,
+    "confidence": null
+  },
+  {
+    "text": " день",
+    "startMs": 5294.375,
+    "endMs": 5538.75,
+    "timestampMs": 5416.5625,
+    "confidence": null
+  }
+]

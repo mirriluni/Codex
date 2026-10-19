@@ -1,0 +1,100 @@
+[
+  {
+    "text": " Внутри",
+    "startMs": 100.0,
+    "endMs": 560.5409999999999,
+    "timestampMs": 330.27049999999997,
+    "confidence": null
+  },
+  {
+    "text": " лежал",
+    "startMs": 560.541,
+    "endMs": 870.666,
+    "timestampMs": 715.6035,
+    "confidence": null
+  },
+  {
+    "text": " телефон",
+    "startMs": 870.666,
+    "endMs": 1284.207,
+    "timestampMs": 1077.4365,
+    "confidence": null
+  },
+  {
+    "text": " Он",
+    "startMs": 1957.875,
+    "endMs": 2211.625,
+    "timestampMs": 2084.75,
+    "confidence": null
+  },
+  {
+    "text": " зазвонил",
+    "startMs": 2211.666,
+    "endMs": 2728.5820000000003,
+    "timestampMs": 2470.1240000000003,
+    "confidence": null
+  },
+  {
+    "text": " На",
+    "startMs": 3367.666,
+    "endMs": 3565.041,
+    "timestampMs": 3466.3535,
+    "confidence": null
+  },
+  {
+    "text": " экране",
+    "startMs": 3565.041,
+    "endMs": 3912.791,
+    "timestampMs": 3738.916,
+    "confidence": null
+  },
+  {
+    "text": " мама",
+    "startMs": 4157.125,
+    "endMs": 4523.666,
+    "timestampMs": 4340.3955000000005,
+    "confidence": null
+  },
+  {
+    "text": " Но",
+    "startMs": 5162.791,
+    "endMs": 5378.957,
+    "timestampMs": 5270.874,
+    "confidence": null
+  },
+  {
+    "text": " маму",
+    "startMs": 5378.958,
+    "endMs": 5576.333,
+    "timestampMs": 5477.6455,
+    "confidence": null
+  },
+  {
+    "text": " забрали",
+    "startMs": 5576.333,
+    "endMs": 5924.040999999999,
+    "timestampMs": 5750.187,
+    "confidence": null
+  },
+  {
+    "text": " двенадцать",
+    "startMs": 5924.041,
+    "endMs": 6393.957,
+    "timestampMs": 6158.999,
+    "confidence": null
+  },
+  {
+    "text": " лет",
+    "startMs": 6394.0,
+    "endMs": 6553.75,
+    "timestampMs": 6473.875,
+    "confidence": null
+  },
+  {
+    "text": " назад",
+    "startMs": 6553.75,
+    "endMs": 6957.875,
+    "timestampMs": 6755.8125,
+    "confidence": null
+  }
+]

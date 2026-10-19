@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Все",
+    "startMs": 100.0,
+    "endMs": 391.333,
+    "timestampMs": 245.6665,
+    "confidence": null
+  },
+  {
+    "text": " вокруг",
+    "startMs": 391.333,
+    "endMs": 776.666,
+    "timestampMs": 583.9995,
+    "confidence": null
+  },
+  {
+    "text": " остановились",
+    "startMs": 776.708,
+    "endMs": 1378.208,
+    "timestampMs": 1077.458,
+    "confidence": null
+  },
+  {
+    "text": " Сразу",
+    "startMs": 2004.875,
+    "endMs": 2559.375,
+    "timestampMs": 2282.125,
+    "confidence": null
+  },
+  {
+    "text": " Даже",
+    "startMs": 3198.5,
+    "endMs": 3574.416,
+    "timestampMs": 3386.458,
+    "confidence": null
+  },
+  {
+    "text": " собака",
+    "startMs": 3574.416,
+    "endMs": 3950.3740000000003,
+    "timestampMs": 3762.3950000000004,
+    "confidence": null
+  },
+  {
+    "text": " перестала",
+    "startMs": 3950.375,
+    "endMs": 4335.708,
+    "timestampMs": 4143.041499999999,
+    "confidence": null
+  },
+  {
+    "text": " дышать",
+    "startMs": 4335.708,
+    "endMs": 4730.458,
+    "timestampMs": 4533.083,
+    "confidence": null
+  },
+  {
+    "text": " А",
+    "startMs": 5416.541,
+    "endMs": 5585.707,
+    "timestampMs": 5501.124,
+    "confidence": null
+  },
+  {
+    "text": " голос",
+    "startMs": 5585.708,
+    "endMs": 5848.874,
+    "timestampMs": 5717.290999999999,
+    "confidence": null
+  },
+  {
+    "text": " прошептал",
+    "startMs": 5848.875,
+    "endMs": 6281.208,
+    "timestampMs": 6065.041499999999,
+    "confidence": null
+  },
+  {
+    "text": " сейчас",
+    "startMs": 6525.583,
+    "endMs": 6882.708,
+    "timestampMs": 6704.1455,
+    "confidence": null
+  },
+  {
+    "text": " они",
+    "startMs": 6882.708,
+    "endMs": 7014.290999999999,
+    "timestampMs": 6948.4995,
+    "confidence": null
+  },
+  {
+    "text": " будут",
+    "startMs": 7014.291,
+    "endMs": 7230.457,
+    "timestampMs": 7122.374,
+    "confidence": null
+  },
+  {
+    "text": " менять",
+    "startMs": 7230.458,
+    "endMs": 7568.790999999999,
+    "timestampMs": 7399.6245,
+    "confidence": null
+  },
+  {
+    "text": " улицу",
+    "startMs": 7568.791,
+    "endMs": 8001.124,
+    "timestampMs": 7784.9575,
+    "confidence": null
+  }
+]

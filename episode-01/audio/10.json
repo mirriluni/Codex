@@ -1,0 +1,128 @@
+[
+  {
+    "text": " Передо",
+    "startMs": 100.0,
+    "endMs": 344.375,
+    "timestampMs": 222.1875,
+    "confidence": null
+  },
+  {
+    "text": " мной",
+    "startMs": 344.375,
+    "endMs": 532.333,
+    "timestampMs": 438.354,
+    "confidence": null
+  },
+  {
+    "text": " стоял",
+    "startMs": 532.333,
+    "endMs": 889.458,
+    "timestampMs": 710.8955,
+    "confidence": null
+  },
+  {
+    "text": " дом",
+    "startMs": 889.458,
+    "endMs": 1086.833,
+    "timestampMs": 988.1455000000001,
+    "confidence": null
+  },
+  {
+    "text": " семнадцать",
+    "startMs": 1086.833,
+    "endMs": 1613.1660000000002,
+    "timestampMs": 1349.9995000000001,
+    "confidence": null
+  },
+  {
+    "text": " В",
+    "startMs": 2239.833,
+    "endMs": 2455.9990000000003,
+    "timestampMs": 2347.916,
+    "confidence": null
+  },
+  {
+    "text": " окнах",
+    "startMs": 2456.0,
+    "endMs": 2775.541,
+    "timestampMs": 2615.7705,
+    "confidence": null
+  },
+  {
+    "text": " горел",
+    "startMs": 2775.583,
+    "endMs": 3085.708,
+    "timestampMs": 2930.6455,
+    "confidence": null
+  },
+  {
+    "text": " свет",
+    "startMs": 3085.708,
+    "endMs": 3424.041,
+    "timestampMs": 3254.8745,
+    "confidence": null
+  },
+  {
+    "text": " А",
+    "startMs": 4081.958,
+    "endMs": 4241.749,
+    "timestampMs": 4161.8535,
+    "confidence": null
+  },
+  {
+    "text": " все",
+    "startMs": 4241.75,
+    "endMs": 4410.916,
+    "timestampMs": 4326.3330000000005,
+    "confidence": null
+  },
+  {
+    "text": " люди",
+    "startMs": 4410.916,
+    "endMs": 4598.874,
+    "timestampMs": 4504.895,
+    "confidence": null
+  },
+  {
+    "text": " на",
+    "startMs": 4598.875,
+    "endMs": 4711.666,
+    "timestampMs": 4655.2705000000005,
+    "confidence": null
+  },
+  {
+    "text": " улице",
+    "startMs": 4711.666,
+    "endMs": 5021.791,
+    "timestampMs": 4866.7285,
+    "confidence": null
+  },
+  {
+    "text": " одновременно",
+    "startMs": 5021.791,
+    "endMs": 5613.916,
+    "timestampMs": 5317.8535,
+    "confidence": null
+  },
+  {
+    "text": " повернулись",
+    "startMs": 5613.916,
+    "endMs": 6018.041,
+    "timestampMs": 5815.9785,
+    "confidence": null
+  },
+  {
+    "text": " ко",
+    "startMs": 6018.041,
+    "endMs": 6112.041,
+    "timestampMs": 6065.041,
+    "confidence": null
+  },
+  {
+    "text": " мне",
+    "startMs": 6112.041,
+    "endMs": 6412.791,
+    "timestampMs": 6262.416,
+    "confidence": null
+  }
+]

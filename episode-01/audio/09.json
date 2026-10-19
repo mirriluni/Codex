@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Под",
+    "startMs": 100.0,
+    "endMs": 269.166,
+    "timestampMs": 184.583,
+    "confidence": null
+  },
+  {
+    "text": " ногами",
+    "startMs": 269.166,
+    "endMs": 598.124,
+    "timestampMs": 433.645,
+    "confidence": null
+  },
+  {
+    "text": " дрогнул",
+    "startMs": 598.125,
+    "endMs": 964.6659999999999,
+    "timestampMs": 781.3955,
+    "confidence": null
+  },
+  {
+    "text": " асфальт",
+    "startMs": 964.666,
+    "endMs": 1425.207,
+    "timestampMs": 1194.9365,
+    "confidence": null
+  },
+  {
+    "text": " Где-то",
+    "startMs": 2061.291,
+    "endMs": 2437.2070000000003,
+    "timestampMs": 2249.2490000000003,
+    "confidence": null
+  },
+  {
+    "text": " рядом",
+    "startMs": 2437.208,
+    "endMs": 2690.958,
+    "timestampMs": 2564.083,
+    "confidence": null
+  },
+  {
+    "text": " сдвинулась",
+    "startMs": 2690.958,
+    "endMs": 3132.708,
+    "timestampMs": 2911.833,
+    "confidence": null
+  },
+  {
+    "text": " целая",
+    "startMs": 3132.708,
+    "endMs": 3424.041,
+    "timestampMs": 3278.3745,
+    "confidence": null
+  },
+  {
+    "text": " стена",
+    "startMs": 3424.041,
+    "endMs": 3809.3740000000003,
+    "timestampMs": 3616.7075000000004,
+    "confidence": null
+  },
+  {
+    "text": " Я",
+    "startMs": 4495.5,
+    "endMs": 4805.625,
+    "timestampMs": 4650.5625,
+    "confidence": null
+  },
+  {
+    "text": " поднял",
+    "startMs": 4805.625,
+    "endMs": 5153.375,
+    "timestampMs": 4979.5,
+    "confidence": null
+  },
+  {
+    "text": " край",
+    "startMs": 5153.375,
+    "endMs": 5369.541,
+    "timestampMs": 5261.4580000000005,
+    "confidence": null
+  },
+  {
+    "text": " повязки",
+    "startMs": 5369.541,
+    "endMs": 5839.457,
+    "timestampMs": 5604.499,
+    "confidence": null
+  },
+  {
+    "text": " Всего",
+    "startMs": 6478.583,
+    "endMs": 6863.915999999999,
+    "timestampMs": 6671.2495,
+    "confidence": null
+  },
+  {
+    "text": " на",
+    "startMs": 6863.916,
+    "endMs": 6957.874,
+    "timestampMs": 6910.895,
+    "confidence": null
+  },
+  {
+    "text": " секунду",
+    "startMs": 6957.875,
+    "endMs": 7427.791,
+    "timestampMs": 7192.8330000000005,
+    "confidence": null
+  }
+]

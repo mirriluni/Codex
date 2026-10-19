@@ -1,0 +1,121 @@
+[
+  {
+    "text": " На",
+    "startMs": 100.0,
+    "endMs": 344.375,
+    "timestampMs": 222.1875,
+    "confidence": null
+  },
+  {
+    "text": " ней",
+    "startMs": 344.375,
+    "endMs": 513.5409999999999,
+    "timestampMs": 428.95799999999997,
+    "confidence": null
+  },
+  {
+    "text": " я",
+    "startMs": 513.541,
+    "endMs": 626.3320000000001,
+    "timestampMs": 569.9365,
+    "confidence": null
+  },
+  {
+    "text": " стою",
+    "startMs": 626.333,
+    "endMs": 917.6659999999999,
+    "timestampMs": 771.9994999999999,
+    "confidence": null
+  },
+  {
+    "text": " в",
+    "startMs": 917.666,
+    "endMs": 974.041,
+    "timestampMs": 945.8535,
+    "confidence": null
+  },
+  {
+    "text": " этой",
+    "startMs": 974.041,
+    "endMs": 1133.832,
+    "timestampMs": 1053.9365,
+    "confidence": null
+  },
+  {
+    "text": " комнате",
+    "startMs": 1133.833,
+    "endMs": 1584.958,
+    "timestampMs": 1359.3955,
+    "confidence": null
+  },
+  {
+    "text": " А",
+    "startMs": 2211.666,
+    "endMs": 2362.041,
+    "timestampMs": 2286.8535,
+    "confidence": null
+  },
+  {
+    "text": " за",
+    "startMs": 2362.041,
+    "endMs": 2446.6240000000003,
+    "timestampMs": 2404.3325000000004,
+    "confidence": null
+  },
+  {
+    "text": " моей",
+    "startMs": 2446.625,
+    "endMs": 2644.0,
+    "timestampMs": 2545.3125,
+    "confidence": null
+  },
+  {
+    "text": " спиной",
+    "startMs": 2644.0,
+    "endMs": 2963.541,
+    "timestampMs": 2803.7705,
+    "confidence": null
+  },
+  {
+    "text": " уже",
+    "startMs": 2963.541,
+    "endMs": 3207.8740000000003,
+    "timestampMs": 3085.7075000000004,
+    "confidence": null
+  },
+  {
+    "text": " открывается",
+    "startMs": 3207.875,
+    "endMs": 3649.625,
+    "timestampMs": 3428.75,
+    "confidence": null
+  },
+  {
+    "text": " коробка",
+    "startMs": 3649.625,
+    "endMs": 4081.958,
+    "timestampMs": 3865.7915000000003,
+    "confidence": null
+  },
+  {
+    "text": " Я",
+    "startMs": 4758.666,
+    "endMs": 5049.999,
+    "timestampMs": 4904.3325,
+    "confidence": null
+  },
+  {
+    "text": " медленно",
+    "startMs": 5050.0,
+    "endMs": 5501.125,
+    "timestampMs": 5275.5625,
+    "confidence": null
+  },
+  {
+    "text": " обернулся",
+    "startMs": 5501.125,
+    "endMs": 6159.0,
+    "timestampMs": 5830.0625,
+    "confidence": null
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": " В",
+    "startMs": 100.0,
+    "endMs": 250.375,
+    "timestampMs": 175.1875,
+    "confidence": null
+  },
+  {
+    "text": " моём",
+    "startMs": 250.375,
+    "endMs": 532.3330000000001,
+    "timestampMs": 391.35400000000004,
+    "confidence": null
+  },
+  {
+    "text": " городе",
+    "startMs": 532.333,
+    "endMs": 814.2909999999999,
+    "timestampMs": 673.3119999999999,
+    "confidence": null
+  },
+  {
+    "text": " за",
+    "startMs": 814.291,
+    "endMs": 917.666,
+    "timestampMs": 865.9785,
+    "confidence": null
+  },
+  {
+    "text": " открытые",
+    "startMs": 917.666,
+    "endMs": 1255.999,
+    "timestampMs": 1086.8325,
+    "confidence": null
+  },
+  {
+    "text": " глаза",
+    "startMs": 1256.0,
+    "endMs": 1519.166,
+    "timestampMs": 1387.583,
+    "confidence": null
+  },
+  {
+    "text": " забирают",
+    "startMs": 1519.166,
+    "endMs": 1895.124,
+    "timestampMs": 1707.145,
+    "confidence": null
+  },
+  {
+    "text": " навсегда",
+    "startMs": 1895.125,
+    "endMs": 2355.666,
+    "timestampMs": 2125.3955,
+    "confidence": null
+  }
+]

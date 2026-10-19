@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Я",
+    "startMs": 100.0,
+    "endMs": 381.958,
+    "timestampMs": 240.979,
+    "confidence": null
+  },
+  {
+    "text": " замер",
+    "startMs": 381.958,
+    "endMs": 767.291,
+    "timestampMs": 574.6245,
+    "confidence": null
+  },
+  {
+    "text": " Откуда",
+    "startMs": 1394.0,
+    "endMs": 1816.916,
+    "timestampMs": 1605.458,
+    "confidence": null
+  },
+  {
+    "text": " он",
+    "startMs": 1816.916,
+    "endMs": 1929.7069999999999,
+    "timestampMs": 1873.3114999999998,
+    "confidence": null
+  },
+  {
+    "text": " знает",
+    "startMs": 1929.708,
+    "endMs": 2211.666,
+    "timestampMs": 2070.687,
+    "confidence": null
+  },
+  {
+    "text": " моё",
+    "startMs": 2211.666,
+    "endMs": 2427.8320000000003,
+    "timestampMs": 2319.7490000000003,
+    "confidence": null
+  },
+  {
+    "text": " имя",
+    "startMs": 2427.833,
+    "endMs": 2794.3740000000003,
+    "timestampMs": 2611.1035,
+    "confidence": null
+  },
+  {
+    "text": " И",
+    "startMs": 3424.041,
+    "endMs": 3621.416,
+    "timestampMs": 3522.7285,
+    "confidence": null
+  },
+  {
+    "text": " тут",
+    "startMs": 3621.416,
+    "endMs": 3781.2070000000003,
+    "timestampMs": 3701.3115000000003,
+    "confidence": null
+  },
+  {
+    "text": " городская",
+    "startMs": 3781.208,
+    "endMs": 4138.3330000000005,
+    "timestampMs": 3959.7705000000005,
+    "confidence": null
+  },
+  {
+    "text": " сирена",
+    "startMs": 4138.333,
+    "endMs": 4439.083,
+    "timestampMs": 4288.708,
+    "confidence": null
+  },
+  {
+    "text": " включилась",
+    "startMs": 4439.083,
+    "endMs": 4890.208,
+    "timestampMs": 4664.6455,
+    "confidence": null
+  },
+  {
+    "text": " на",
+    "startMs": 4890.208,
+    "endMs": 5059.374,
+    "timestampMs": 4974.790999999999,
+    "confidence": null
+  },
+  {
+    "text": " десять",
+    "startMs": 5059.416,
+    "endMs": 5341.332,
+    "timestampMs": 5200.374,
+    "confidence": null
+  },
+  {
+    "text": " минут",
+    "startMs": 5341.333,
+    "endMs": 5566.915999999999,
+    "timestampMs": 5454.1245,
+    "confidence": null
+  },
+  {
+    "text": " раньше",
+    "startMs": 5566.916,
+    "endMs": 5961.666,
+    "timestampMs": 5764.291,
+    "confidence": null
+  }
+]

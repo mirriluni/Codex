@@ -1,0 +1,107 @@
+[
+  {
+    "text": " Я",
+    "startMs": 100.0,
+    "endMs": 381.958,
+    "timestampMs": 240.979,
+    "confidence": null
+  },
+  {
+    "text": " ответил",
+    "startMs": 381.958,
+    "endMs": 842.499,
+    "timestampMs": 612.2285,
+    "confidence": null
+  },
+  {
+    "text": " Она",
+    "startMs": 1469.166,
+    "endMs": 1704.124,
+    "timestampMs": 1586.645,
+    "confidence": null
+  },
+  {
+    "text": " сказала",
+    "startMs": 1704.125,
+    "endMs": 2061.25,
+    "timestampMs": 1882.6875,
+    "confidence": null
+  },
+  {
+    "text": " Марк",
+    "startMs": 2305.625,
+    "endMs": 2559.375,
+    "timestampMs": 2432.5,
+    "confidence": null
+  },
+  {
+    "text": " слушай",
+    "startMs": 2644.0,
+    "endMs": 3010.541,
+    "timestampMs": 2827.2705,
+    "confidence": null
+  },
+  {
+    "text": " внимательно",
+    "startMs": 3010.541,
+    "endMs": 3565.041,
+    "timestampMs": 3287.791,
+    "confidence": null
+  },
+  {
+    "text": " Не",
+    "startMs": 4222.916,
+    "endMs": 4486.082,
+    "timestampMs": 4354.499,
+    "confidence": null
+  },
+  {
+    "text": " верь",
+    "startMs": 4486.083,
+    "endMs": 4664.665999999999,
+    "timestampMs": 4575.3745,
+    "confidence": null
+  },
+  {
+    "text": " ребёнку",
+    "startMs": 4664.666,
+    "endMs": 5209.791,
+    "timestampMs": 4937.2285,
+    "confidence": null
+  },
+  {
+    "text": " Он",
+    "startMs": 5877.083,
+    "endMs": 6102.624,
+    "timestampMs": 5989.853499999999,
+    "confidence": null
+  },
+  {
+    "text": " уже",
+    "startMs": 6102.625,
+    "endMs": 6290.583,
+    "timestampMs": 6196.603999999999,
+    "confidence": null
+  },
+  {
+    "text": " стоит",
+    "startMs": 6290.583,
+    "endMs": 6591.333,
+    "timestampMs": 6440.958,
+    "confidence": null
+  },
+  {
+    "text": " за",
+    "startMs": 6591.333,
+    "endMs": 6704.124,
+    "timestampMs": 6647.728499999999,
+    "confidence": null
+  },
+  {
+    "text": " тобой",
+    "startMs": 6704.125,
+    "endMs": 7051.875,
+    "timestampMs": 6878.0,
+    "confidence": null
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "text": " Внутри",
+    "startMs": 100.0,
+    "endMs": 654.5,
+    "timestampMs": 377.25,
+    "confidence": null
+  },
+  {
+    "text": " десятки",
+    "startMs": 851.875,
+    "endMs": 1256.0,
+    "timestampMs": 1053.9375,
+    "confidence": null
+  },
+  {
+    "text": " фотографий",
+    "startMs": 1256.0,
+    "endMs": 1810.5,
+    "timestampMs": 1533.25,
+    "confidence": null
+  },
+  {
+    "text": " На",
+    "startMs": 2437.208,
+    "endMs": 2662.791,
+    "timestampMs": 2549.9995,
+    "confidence": null
+  },
+  {
+    "text": " каждой",
+    "startMs": 2662.791,
+    "endMs": 2954.1240000000003,
+    "timestampMs": 2808.4575000000004,
+    "confidence": null
+  },
+  {
+    "text": " я",
+    "startMs": 2954.125,
+    "endMs": 3123.291,
+    "timestampMs": 3038.708,
+    "confidence": null
+  },
+  {
+    "text": " Ребёнком",
+    "startMs": 3123.291,
+    "endMs": 3602.6240000000003,
+    "timestampMs": 3362.9575000000004,
+    "confidence": null
+  },
+  {
+    "text": " подростком",
+    "startMs": 3743.625,
+    "endMs": 4241.75,
+    "timestampMs": 3992.6875,
+    "confidence": null
+  },
+  {
+    "text": " сегодня",
+    "startMs": 4382.708,
+    "endMs": 4768.040999999999,
+    "timestampMs": 4575.3745,
+    "confidence": null
+  },
+  {
+    "text": " утром",
+    "startMs": 4768.041,
+    "endMs": 5087.582,
+    "timestampMs": 4927.8115,
+    "confidence": null
+  },
+  {
+    "text": " Последняя",
+    "startMs": 5726.708,
+    "endMs": 6271.790999999999,
+    "timestampMs": 5999.2495,
+    "confidence": null
+  },
+  {
+    "text": " ещё",
+    "startMs": 6271.791,
+    "endMs": 6600.749,
+    "timestampMs": 6436.27,
+    "confidence": null
+  },
+  {
+    "text": " тёплая",
+    "startMs": 6600.75,
+    "endMs": 7136.458,
+    "timestampMs": 6868.603999999999,
+    "confidence": null
+  }
+]

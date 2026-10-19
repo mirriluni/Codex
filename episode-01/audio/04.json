@@ -1,0 +1,114 @@
+[
+  {
+    "text": " Сегодня",
+    "startMs": 100.0,
+    "endMs": 522.9159999999999,
+    "timestampMs": 311.45799999999997,
+    "confidence": null
+  },
+  {
+    "text": " мне",
+    "startMs": 522.916,
+    "endMs": 673.291,
+    "timestampMs": 598.1035,
+    "confidence": null
+  },
+  {
+    "text": " дали",
+    "startMs": 673.291,
+    "endMs": 880.041,
+    "timestampMs": 776.666,
+    "confidence": null
+  },
+  {
+    "text": " странную",
+    "startMs": 880.083,
+    "endMs": 1284.208,
+    "timestampMs": 1082.1455,
+    "confidence": null
+  },
+  {
+    "text": " посылку",
+    "startMs": 1284.208,
+    "endMs": 1763.5410000000002,
+    "timestampMs": 1523.8745000000001,
+    "confidence": null
+  },
+  {
+    "text": " Без",
+    "startMs": 2437.208,
+    "endMs": 2794.333,
+    "timestampMs": 2615.7705,
+    "confidence": null
+  },
+  {
+    "text": " имени",
+    "startMs": 2794.375,
+    "endMs": 3245.5,
+    "timestampMs": 3019.9375,
+    "confidence": null
+  },
+  {
+    "text": " Только",
+    "startMs": 3884.583,
+    "endMs": 4185.3330000000005,
+    "timestampMs": 4034.9580000000005,
+    "confidence": null
+  },
+  {
+    "text": " адрес",
+    "startMs": 4185.333,
+    "endMs": 4533.083,
+    "timestampMs": 4359.208,
+    "confidence": null
+  },
+  {
+    "text": " дом",
+    "startMs": 4664.666,
+    "endMs": 4918.416,
+    "timestampMs": 4791.541,
+    "confidence": null
+  },
+  {
+    "text": " семнадцать",
+    "startMs": 4918.416,
+    "endMs": 5454.124,
+    "timestampMs": 5186.27,
+    "confidence": null
+  },
+  {
+    "text": " И",
+    "startMs": 6093.25,
+    "endMs": 6243.625,
+    "timestampMs": 6168.4375,
+    "confidence": null
+  },
+  {
+    "text": " записку",
+    "startMs": 6243.625,
+    "endMs": 6657.166,
+    "timestampMs": 6450.3955000000005,
+    "confidence": null
+  },
+  {
+    "text": " доставить",
+    "startMs": 6882.708,
+    "endMs": 7286.833,
+    "timestampMs": 7084.7705,
+    "confidence": null
+  },
+  {
+    "text": " до",
+    "startMs": 7286.833,
+    "endMs": 7399.624,
+    "timestampMs": 7343.228499999999,
+    "confidence": null
+  },
+  {
+    "text": " сирены",
+    "startMs": 7399.625,
+    "endMs": 7803.75,
+    "timestampMs": 7601.6875,
+    "confidence": null
+  }
+]

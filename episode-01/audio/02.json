@@ -1,0 +1,107 @@
+[
+  {
+    "text": " Меня",
+    "startMs": 100.0,
+    "endMs": 457.125,
+    "timestampMs": 278.5625,
+    "confidence": null
+  },
+  {
+    "text": " зовут",
+    "startMs": 457.125,
+    "endMs": 757.875,
+    "timestampMs": 607.5,
+    "confidence": null
+  },
+  {
+    "text": " Марк",
+    "startMs": 757.875,
+    "endMs": 1115.0,
+    "timestampMs": 936.4375,
+    "confidence": null
+  },
+  {
+    "text": " Мне",
+    "startMs": 1741.75,
+    "endMs": 2117.666,
+    "timestampMs": 1929.708,
+    "confidence": null
+  },
+  {
+    "text": " двадцать",
+    "startMs": 2117.666,
+    "endMs": 2474.791,
+    "timestampMs": 2296.2285,
+    "confidence": null
+  },
+  {
+    "text": " три",
+    "startMs": 2474.791,
+    "endMs": 2766.1240000000003,
+    "timestampMs": 2620.4575000000004,
+    "confidence": null
+  },
+  {
+    "text": " Я",
+    "startMs": 3452.25,
+    "endMs": 3706.0,
+    "timestampMs": 3579.125,
+    "confidence": null
+  },
+  {
+    "text": " развожу",
+    "startMs": 3706.0,
+    "endMs": 4053.75,
+    "timestampMs": 3879.875,
+    "confidence": null
+  },
+  {
+    "text": " посылки",
+    "startMs": 4053.75,
+    "endMs": 4439.083,
+    "timestampMs": 4246.416499999999,
+    "confidence": null
+  },
+  {
+    "text": " по",
+    "startMs": 4439.083,
+    "endMs": 4533.083,
+    "timestampMs": 4486.083,
+    "confidence": null
+  },
+  {
+    "text": " городу",
+    "startMs": 4533.083,
+    "endMs": 4833.833,
+    "timestampMs": 4683.458,
+    "confidence": null
+  },
+  {
+    "text": " которого",
+    "startMs": 5021.791,
+    "endMs": 5378.916,
+    "timestampMs": 5200.3535,
+    "confidence": null
+  },
+  {
+    "text": " никогда",
+    "startMs": 5378.958,
+    "endMs": 5736.083,
+    "timestampMs": 5557.5205,
+    "confidence": null
+  },
+  {
+    "text": " не",
+    "startMs": 5736.083,
+    "endMs": 5830.083,
+    "timestampMs": 5783.083,
+    "confidence": null
+  },
+  {
+    "text": " видел",
+    "startMs": 5830.083,
+    "endMs": 6140.249,
+    "timestampMs": 5985.165999999999,
+    "confidence": null
+  }
+]

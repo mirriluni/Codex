@@ -1,0 +1,121 @@
+[
+  {
+    "text": " Я",
+    "startMs": 100.0,
+    "endMs": 372.541,
+    "timestampMs": 236.2705,
+    "confidence": null
+  },
+  {
+    "text": " хотел",
+    "startMs": 372.541,
+    "endMs": 673.2909999999999,
+    "timestampMs": 522.9159999999999,
+    "confidence": null
+  },
+  {
+    "text": " вернуть",
+    "startMs": 673.291,
+    "endMs": 983.4570000000001,
+    "timestampMs": 828.374,
+    "confidence": null
+  },
+  {
+    "text": " коробку",
+    "startMs": 983.458,
+    "endMs": 1406.374,
+    "timestampMs": 1194.916,
+    "confidence": null
+  },
+  {
+    "text": " Но",
+    "startMs": 2080.083,
+    "endMs": 2286.833,
+    "timestampMs": 2183.458,
+    "confidence": null
+  },
+  {
+    "text": " изнутри",
+    "startMs": 2286.833,
+    "endMs": 2615.791,
+    "timestampMs": 2451.312,
+    "confidence": null
+  },
+  {
+    "text": " раздались",
+    "startMs": 2615.791,
+    "endMs": 2991.7490000000003,
+    "timestampMs": 2803.7700000000004,
+    "confidence": null
+  },
+  {
+    "text": " три",
+    "startMs": 2991.75,
+    "endMs": 3198.5,
+    "timestampMs": 3095.125,
+    "confidence": null
+  },
+  {
+    "text": " коротких",
+    "startMs": 3198.5,
+    "endMs": 3574.416,
+    "timestampMs": 3386.458,
+    "confidence": null
+  },
+  {
+    "text": " стука",
+    "startMs": 3574.416,
+    "endMs": 3940.9570000000003,
+    "timestampMs": 3757.6865000000003,
+    "confidence": null
+  },
+  {
+    "text": " Потом",
+    "startMs": 4617.666,
+    "endMs": 4937.207,
+    "timestampMs": 4777.4365,
+    "confidence": null
+  },
+  {
+    "text": " детский",
+    "startMs": 4937.208,
+    "endMs": 5219.165999999999,
+    "timestampMs": 5078.187,
+    "confidence": null
+  },
+  {
+    "text": " голос",
+    "startMs": 5219.166,
+    "endMs": 5557.499,
+    "timestampMs": 5388.3325,
+    "confidence": null
+  },
+  {
+    "text": " Марк",
+    "startMs": 5642.125,
+    "endMs": 5980.458,
+    "timestampMs": 5811.291499999999,
+    "confidence": null
+  },
+  {
+    "text": " не",
+    "startMs": 6083.833,
+    "endMs": 6215.415999999999,
+    "timestampMs": 6149.6245,
+    "confidence": null
+  },
+  {
+    "text": " отдавай",
+    "startMs": 6215.416,
+    "endMs": 6497.374,
+    "timestampMs": 6356.395,
+    "confidence": null
+  },
+  {
+    "text": " меня",
+    "startMs": 6497.375,
+    "endMs": 6769.916,
+    "timestampMs": 6633.6455000000005,
+    "confidence": null
+  }
+]

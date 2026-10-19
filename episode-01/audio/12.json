@@ -1,0 +1,128 @@
+[
+  {
+    "text": " Я",
+    "startMs": 100.0,
+    "endMs": 391.333,
+    "timestampMs": 245.6665,
+    "confidence": null
+  },
+  {
+    "text": " бросился",
+    "startMs": 391.333,
+    "endMs": 804.874,
+    "timestampMs": 598.1035,
+    "confidence": null
+  },
+  {
+    "text": " к",
+    "startMs": 804.875,
+    "endMs": 851.875,
+    "timestampMs": 828.375,
+    "confidence": null
+  },
+  {
+    "text": " двери",
+    "startMs": 851.875,
+    "endMs": 1190.208,
+    "timestampMs": 1021.0415,
+    "confidence": null
+  },
+  {
+    "text": " На",
+    "startMs": 1816.916,
+    "endMs": 2042.499,
+    "timestampMs": 1929.7075,
+    "confidence": null
+  },
+  {
+    "text": " замке",
+    "startMs": 2042.5,
+    "endMs": 2315.041,
+    "timestampMs": 2178.7705,
+    "confidence": null
+  },
+  {
+    "text": " было",
+    "startMs": 2315.041,
+    "endMs": 2465.416,
+    "timestampMs": 2390.2285,
+    "confidence": null
+  },
+  {
+    "text": " написано",
+    "startMs": 2465.416,
+    "endMs": 2878.9570000000003,
+    "timestampMs": 2672.1865000000003,
+    "confidence": null
+  },
+  {
+    "text": " откроется",
+    "startMs": 3038.708,
+    "endMs": 3508.6240000000003,
+    "timestampMs": 3273.666,
+    "confidence": null
+  },
+  {
+    "text": " только",
+    "startMs": 3508.666,
+    "endMs": 3752.9990000000003,
+    "timestampMs": 3630.8325000000004,
+    "confidence": null
+  },
+  {
+    "text": " тому",
+    "startMs": 3753.0,
+    "endMs": 4025.541,
+    "timestampMs": 3889.2705,
+    "confidence": null
+  },
+  {
+    "text": " кто",
+    "startMs": 4138.333,
+    "endMs": 4298.124,
+    "timestampMs": 4218.228499999999,
+    "confidence": null
+  },
+  {
+    "text": " видит",
+    "startMs": 4298.125,
+    "endMs": 4645.875,
+    "timestampMs": 4472.0,
+    "confidence": null
+  },
+  {
+    "text": " Впервые",
+    "startMs": 5341.333,
+    "endMs": 5811.249,
+    "timestampMs": 5576.290999999999,
+    "confidence": null
+  },
+  {
+    "text": " мой",
+    "startMs": 5811.291,
+    "endMs": 5961.666,
+    "timestampMs": 5886.4785,
+    "confidence": null
+  },
+  {
+    "text": " страх",
+    "startMs": 5961.666,
+    "endMs": 6252.999,
+    "timestampMs": 6107.3325,
+    "confidence": null
+  },
+  {
+    "text": " стал",
+    "startMs": 6253.0,
+    "endMs": 6516.166,
+    "timestampMs": 6384.5830000000005,
+    "confidence": null
+  },
+  {
+    "text": " ключом",
+    "startMs": 6516.166,
+    "endMs": 6939.082,
+    "timestampMs": 6727.624,
+    "confidence": null
+  }
+]

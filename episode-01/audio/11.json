@@ -1,0 +1,100 @@
+[
+  {
+    "text": " Повязки",
+    "startMs": 100.0,
+    "endMs": 541.75,
+    "timestampMs": 320.875,
+    "confidence": null
+  },
+  {
+    "text": " скрывали",
+    "startMs": 541.75,
+    "endMs": 936.4580000000001,
+    "timestampMs": 739.104,
+    "confidence": null
+  },
+  {
+    "text": " пустоту",
+    "startMs": 936.458,
+    "endMs": 1415.791,
+    "timestampMs": 1176.1245,
+    "confidence": null
+  },
+  {
+    "text": " У",
+    "startMs": 2089.458,
+    "endMs": 2268.041,
+    "timestampMs": 2178.7495,
+    "confidence": null
+  },
+  {
+    "text": " них",
+    "startMs": 2268.041,
+    "endMs": 2474.791,
+    "timestampMs": 2371.416,
+    "confidence": null
+  },
+  {
+    "text": " не",
+    "startMs": 2474.791,
+    "endMs": 2634.5820000000003,
+    "timestampMs": 2554.6865000000003,
+    "confidence": null
+  },
+  {
+    "text": " было",
+    "startMs": 2634.583,
+    "endMs": 2803.7490000000003,
+    "timestampMs": 2719.166,
+    "confidence": null
+  },
+  {
+    "text": " глаз",
+    "startMs": 2803.75,
+    "endMs": 3142.083,
+    "timestampMs": 2972.9165000000003,
+    "confidence": null
+  },
+  {
+    "text": " Ни",
+    "startMs": 3781.208,
+    "endMs": 4063.166,
+    "timestampMs": 3922.187,
+    "confidence": null
+  },
+  {
+    "text": " у",
+    "startMs": 4063.166,
+    "endMs": 4157.124,
+    "timestampMs": 4110.145,
+    "confidence": null
+  },
+  {
+    "text": " одного",
+    "startMs": 4157.125,
+    "endMs": 4598.875,
+    "timestampMs": 4378.0,
+    "confidence": null
+  },
+  {
+    "text": " И",
+    "startMs": 5275.583,
+    "endMs": 5463.540999999999,
+    "timestampMs": 5369.562,
+    "confidence": null
+  },
+  {
+    "text": " каждый",
+    "startMs": 5463.541,
+    "endMs": 5811.291,
+    "timestampMs": 5637.416,
+    "confidence": null
+  },
+  {
+    "text": " улыбался",
+    "startMs": 5811.291,
+    "endMs": 6403.416,
+    "timestampMs": 6107.3535,
+    "confidence": null
+  }
+]

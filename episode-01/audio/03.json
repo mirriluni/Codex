@@ -1,0 +1,121 @@
+[
+  {
+    "text": " Нас",
+    "startMs": 100.0,
+    "endMs": 419.541,
+    "timestampMs": 259.77049999999997,
+    "confidence": null
+  },
+  {
+    "text": " учат",
+    "startMs": 419.541,
+    "endMs": 616.9159999999999,
+    "timestampMs": 518.2284999999999,
+    "confidence": null
+  },
+  {
+    "text": " с",
+    "startMs": 616.916,
+    "endMs": 682.7070000000001,
+    "timestampMs": 649.8115,
+    "confidence": null
+  },
+  {
+    "text": " детства",
+    "startMs": 682.708,
+    "endMs": 1011.6659999999999,
+    "timestampMs": 847.1869999999999,
+    "confidence": null
+  },
+  {
+    "text": " снимешь",
+    "startMs": 1256.0,
+    "endMs": 1575.541,
+    "timestampMs": 1415.7705,
+    "confidence": null
+  },
+  {
+    "text": " повязку",
+    "startMs": 1575.583,
+    "endMs": 1970.333,
+    "timestampMs": 1772.958,
+    "confidence": null
+  },
+  {
+    "text": " потеряешь",
+    "startMs": 2111.291,
+    "endMs": 2496.6240000000003,
+    "timestampMs": 2303.9575000000004,
+    "confidence": null
+  },
+  {
+    "text": " рассудок",
+    "startMs": 2496.625,
+    "endMs": 2938.375,
+    "timestampMs": 2717.5,
+    "confidence": null
+  },
+  {
+    "text": " Поэтому",
+    "startMs": 3593.25,
+    "endMs": 3940.958,
+    "timestampMs": 3767.1040000000003,
+    "confidence": null
+  },
+  {
+    "text": " мы",
+    "startMs": 3940.958,
+    "endMs": 4034.958,
+    "timestampMs": 3987.958,
+    "confidence": null
+  },
+  {
+    "text": " считаем",
+    "startMs": 4034.958,
+    "endMs": 4392.0830000000005,
+    "timestampMs": 4213.5205000000005,
+    "confidence": null
+  },
+  {
+    "text": " шаги",
+    "startMs": 4392.125,
+    "endMs": 4721.041,
+    "timestampMs": 4556.5830000000005,
+    "confidence": null
+  },
+  {
+    "text": " и",
+    "startMs": 4721.041,
+    "endMs": 4861.999,
+    "timestampMs": 4791.52,
+    "confidence": null
+  },
+  {
+    "text": " узнаём",
+    "startMs": 4862.041,
+    "endMs": 5209.791,
+    "timestampMs": 5035.916,
+    "confidence": null
+  },
+  {
+    "text": " близких",
+    "startMs": 5209.791,
+    "endMs": 5548.124,
+    "timestampMs": 5378.9575,
+    "confidence": null
+  },
+  {
+    "text": " по",
+    "startMs": 5548.125,
+    "endMs": 5651.5,
+    "timestampMs": 5599.8125,
+    "confidence": null
+  },
+  {
+    "text": " голосу",
+    "startMs": 5651.5,
+    "endMs": 6083.833,
+    "timestampMs": 5867.666499999999,
+    "confidence": null
+  }
+]
