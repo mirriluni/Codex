@@ -1,0 +1,25 @@
+name: Episode 01 Dmitry voice
+on:
+  push:
+    branches: [work]
+    paths: [episode-01/story.json, scripts/generate-episode.py]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: work
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install edge-tts==7.3.1
+      - run: python scripts/generate-episode.py
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add episode-01/audio
+          git commit -m "Generate episode 01 Dmitry narration and word timestamps"
+          git push origin work
